@@ -32,3 +32,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI uauiu udueuaulueurusuhuiupu ufueueu udueutueucutuour guide](https://hidden-fee-authority.vercel.app/ai-dealership-fee-detector/)
 - [AI uauiu ucuounusuturuuucutuiuounu ueusutuiumuautueu urueuvuiueuw guide](https://hidden-fee-authority.vercel.app/ai-construction-estimate-review/)
 - [AI uauiu uiunusuuuruaunucueu upuouluiucuyu urueuvuiueuwueur guide](https://hidden-fee-authority.vercel.app/ai-insurance-policy-reviewer/)
+- [AI uauiu upuruiucuiunugu uaunuauluyusuius guide](https://hidden-fee-authority.vercel.app/ai-pricing-analysis/)
+- [AI uauiu uquuuoutueu urueuvuiueuw guide](https://hidden-fee-authority.vercel.app/ai-quote-review/)
+- [AI uauiu ubuuusuiunueususu ucuounuturuaucutu urueuvuiueuw guide](https://hidden-fee-authority.vercel.app/ai-business-contract-review/)
