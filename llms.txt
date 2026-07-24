@@ -69,3 +69,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Hvac Contract Auditor guide](https://hidden-fee-authority.vercel.app/ai-hvac-contract-auditor/)
 - [AI Ai Ecommerce Fee Finder guide](https://hidden-fee-authority.vercel.app/ai-ecommerce-fee-finder/)
 - [AI Ai Education Cost Checker guide](https://hidden-fee-authority.vercel.app/ai-education-cost-checker/)
+- [AI Ai Credit Repair Checker guide](https://hidden-fee-authority.vercel.app/ai-credit-repair-checker/)
+- [AI Ai Tax Consultant Checker guide](https://hidden-fee-authority.vercel.app/ai-tax-consultant-checker/)
+- [AI Ai Pawn Shop Checker guide](https://hidden-fee-authority.vercel.app/ai-pawn-shop-checker/)
+- [AI Ai Notary Service Checker guide](https://hidden-fee-authority.vercel.app/ai-notary-service-checker/)
