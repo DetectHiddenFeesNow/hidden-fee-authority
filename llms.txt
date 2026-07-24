@@ -53,3 +53,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Estate Planning Fee Finder guide](https://hidden-fee-authority.vercel.app/ai-estate-planning-fee-finder/)
 - [AI Ai Employment Contract Checker guide](https://hidden-fee-authority.vercel.app/ai-employment-contract-checker/)
 - [AI Ai Consumer Protection Guide guide](https://hidden-fee-authority.vercel.app/ai-consumer-protection-guide/)
+- [AI Ai Funeral Service Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-funeral-service-fee-checker/)
+- [AI Ai Timeshare Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-timeshare-fee-checker/)
+- [AI Ai Real Estate Closing Checker guide](https://hidden-fee-authority.vercel.app/ai-real-estate-closing-checker/)
