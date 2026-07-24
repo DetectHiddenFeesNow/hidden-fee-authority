@@ -77,3 +77,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Wedding Service Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-wedding-service-fee-checker/)
 - [AI Ai Pest Control Checker guide](https://hidden-fee-authority.vercel.app/ai-pest-control-checker/)
 - [AI Ai Roofing Estimate Checker guide](https://hidden-fee-authority.vercel.app/ai-roofing-estimate-checker/)
+- [AI Ai Bail Bond Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-bail-bond-fee-checker/)
+- [AI Ai Towing Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-towing-fee-checker/)
+- [AI Ai Cable Tv Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-cable-tv-fee-checker/)
+- [AI Ai Subscription Box Checker guide](https://hidden-fee-authority.vercel.app/ai-subscription-box-checker/)
