@@ -101,3 +101,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Banking Overdraft Checker guide](https://hidden-fee-authority.vercel.app/ai-banking-overdraft-checker/)
 - [AI Ai Credit Card Late Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-credit-card-late-fee-checker/)
 - [AI Ai Utility Bill Late Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-utility-bill-late-fee-checker/)
+- [AI Ai Business Insurance Checker](https://hidden-fee-authority.vercel.app/ai-business-insurance-checker/)
+- [AI Ai Saas Subscription Checker](https://hidden-fee-authority.vercel.app/ai-saas-subscription-checker/)
+- [AI Ai Cloud Service Fee Checker](https://hidden-fee-authority.vercel.app/ai-cloud-service-fee-checker/)
+- [AI Ai Coworking Space Checker](https://hidden-fee-authority.vercel.app/ai-coworking-space-checker/)
