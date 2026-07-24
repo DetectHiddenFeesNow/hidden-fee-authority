@@ -50,3 +50,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Investment Fee Detector guide](https://hidden-fee-authority.vercel.app/ai-investment-fee-detector/)
 - [AI Ai Senior Care Fee Finder guide](https://hidden-fee-authority.vercel.app/ai-senior-care-fee-finder/)
 - [AI Ai Identity Theft Checker guide](https://hidden-fee-authority.vercel.app/ai-identity-theft-checker/)
+- [AI Ai Estate Planning Fee Finder guide](https://hidden-fee-authority.vercel.app/ai-estate-planning-fee-finder/)
+- [AI Ai Employment Contract Checker guide](https://hidden-fee-authority.vercel.app/ai-employment-contract-checker/)
+- [AI Ai Consumer Protection Guide guide](https://hidden-fee-authority.vercel.app/ai-consumer-protection-guide/)
