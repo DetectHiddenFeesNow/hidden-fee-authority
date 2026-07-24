@@ -65,3 +65,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Health Insurance Reviewer guide](https://hidden-fee-authority.vercel.app/ai-health-insurance-reviewer/)
 - [AI Ai Home Security Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-home-security-fee-checker/)
 - [AI Ai Gym Membership Auditor guide](https://hidden-fee-authority.vercel.app/ai-gym-membership-auditor/)
+- [AI Ai Roofing Contract Checker guide](https://hidden-fee-authority.vercel.app/ai-roofing-contract-checker/)
+- [AI Ai Hvac Contract Auditor guide](https://hidden-fee-authority.vercel.app/ai-hvac-contract-auditor/)
+- [AI Ai Ecommerce Fee Finder guide](https://hidden-fee-authority.vercel.app/ai-ecommerce-fee-finder/)
+- [AI Ai Education Cost Checker guide](https://hidden-fee-authority.vercel.app/ai-education-cost-checker/)
