@@ -121,3 +121,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Long Term Care Fee Checker](https://hidden-fee-authority.vercel.app/ai-long-term-care-checker/)
 - [AI Identity Fraud Fee Checker](https://hidden-fee-authority.vercel.app/ai-identity-fraud-checker/)
 - [AI Vitamin Supplement Fee Checker](https://hidden-fee-authority.vercel.app/ai-vitamin-supplement-checker/)
+- [AI Credit Score Fee Checker](https://hidden-fee-authority.vercel.app/ai-credit-score-checker/)
+- [AI Furniture Rental Fee Checker](https://hidden-fee-authority.vercel.app/ai-furniture-rental-checker/)
+- [AI Event Ticket Fee Checker](https://hidden-fee-authority.vercel.app/ai-event-ticket-checker/)
+- [AI Health Clinic Membership Fee Checker](https://hidden-fee-authority.vercel.app/ai-health-clinic-checker/)
