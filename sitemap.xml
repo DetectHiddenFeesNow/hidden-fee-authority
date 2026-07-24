@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-airbnb-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-appliance-warranty-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-baby-registry-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-bail-bond-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-banking-overdraft-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-bicycle-sharing-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-bill-analyzer/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-business-contract-review/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-business-insurance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-cable-modem-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-cable-tv-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-car-rental-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-car-warranty-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -28,6 +33,7 @@
   <url><loc>https://hidden-fee-authority.vercel.app/ai-document-scanner/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-ecommerce-fee-finder/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-education-cost-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-electronic-waste-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-employment-contract-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-estate-planning-fee-finder/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-event-ticket-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -58,14 +64,17 @@
   <url><loc>https://hidden-fee-authority.vercel.app/ai-life-insurance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-loan-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-long-term-care-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-magazine-subscription-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-meal-kit-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-medical-bill-review/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-medicare-supplement-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-membership-warehouse-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-mortgage-refinance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-moving-company-detector/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-moving-estimate-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-music-streaming-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-notary-service-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-parking-garage-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-pawn-shop-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-payroll-service-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-pest-control-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -73,6 +82,7 @@
   <url><loc>https://hidden-fee-authority.vercel.app/ai-pet-insurance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-pet-ownership-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-pharmacy-bill-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-phone-repair-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-prepaid-card-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-pricing-analysis/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-property-tax-reviewer/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -82,13 +92,17 @@
   <url><loc>https://hidden-fee-authority.vercel.app/ai-renewal-term-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-rental-lease-analyzer/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-renters-insurance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-rideshare-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-roofing-contract-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-roofing-estimate-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-saas-subscription-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-scooter-sharing-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-senior-care-fee-finder/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-service-contract-review/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-shipping-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-shipping-supply-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-small-business-fee-auditor/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-storage-rental-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-storage-unit-fee-auditor/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-student-loan-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-subscription-box-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -96,9 +110,11 @@
   <url><loc>https://hidden-fee-authority.vercel.app/ai-tax-consultant-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-tax-prep-fee-finder/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-telecom-bill-reviewer/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-timeshare-exit-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-timeshare-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-title-loan-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-towing-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hidden-fee-authority.vercel.app/ai-travel-insurance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-travel-service-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-utility-bill-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-utility-bill-late-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
@@ -108,19 +124,4 @@
   <url><loc>https://hidden-fee-authority.vercel.app/ai-vitamin-supplement-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-water-delivery-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hidden-fee-authority.vercel.app/ai-wedding-service-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-parking-garage-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-bicycle-sharing-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-rideshare-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-scooter-sharing-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-airbnb-fee-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-timeshare-exit-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-shipping-supply-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-phone-repair-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-electronic-waste-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-magazine-subscription-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-storage-rental-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-cable-modem-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-moving-estimate-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-travel-insurance-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://hidden-fee-authority.vercel.app/ai-baby-registry-checker/</loc><lastmod>2026-07-24</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>
