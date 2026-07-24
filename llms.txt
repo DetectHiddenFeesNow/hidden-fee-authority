@@ -137,3 +137,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Timeshare Exit Fee Checker](https://hidden-fee-authority.vercel.app/ai-timeshare-exit-checker/)
 - [AI Shipping Supply Fee Checker](https://hidden-fee-authority.vercel.app/ai-shipping-supply-checker/)
 - [AI Phone Repair Fee Checker](https://hidden-fee-authority.vercel.app/ai-phone-repair-checker/)
+- [AI Electronic Waste Fee Checker](https://hidden-fee-authority.vercel.app/ai-electronic-waste-checker/)
+- [AI Magazine Subscription Fee Checker](https://hidden-fee-authority.vercel.app/ai-magazine-subscription-checker/)
+- [AI Storage Rental Fee Checker](https://hidden-fee-authority.vercel.app/ai-storage-rental-checker/)
+- [AI Cable Modem Fee Checker](https://hidden-fee-authority.vercel.app/ai-cable-modem-checker/)
