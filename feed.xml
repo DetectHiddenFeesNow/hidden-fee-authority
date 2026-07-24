@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Hidden Fee Authority</title>
+<link>https://hidden-fee-authority.vercel.app/</link>
+<description>Research and knowledge platform for hidden fee detection and pricing transparency.</description>
+<item><title>State of Hidden Fees 2026</title><link>https://hidden-fee-authority.vercel.app/research</link><guid>https://hidden-fee-authority.vercel.app/research</guid><pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate></item>
+<item><title>Fee Glossary</title><link>https://hidden-fee-authority.vercel.app/glossary</link><guid>https://hidden-fee-authority.vercel.app/glossary</guid><pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate></item>
+<item><title>Healthcare Hidden Fee Research</title><link>https://hidden-fee-authority.vercel.app/industry-healthcare</link><guid>https://hidden-fee-authority.vercel.app/industry-healthcare</guid><pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate></item>
+<item><title>Automotive Hidden Fee Research</title><link>https://hidden-fee-authority.vercel.app/industry-automotive</link><guid>https://hidden-fee-authority.vercel.app/industry-automotive</guid><pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate></item>
+<item><title>Banking Hidden Fee Research</title><link>https://hidden-fee-authority.vercel.app/industry-banking</link><guid>https://hidden-fee-authority.vercel.app/industry-banking</guid><pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate></item>
+</channel>
+</rss>
