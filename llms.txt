@@ -59,3 +59,5 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Debt Collection Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-debt-collection-fee-checker/)
 - [AI Ai Storage Unit Fee Auditor guide](https://hidden-fee-authority.vercel.app/ai-storage-unit-fee-auditor/)
 - [AI Ai Veterinary Bill Checker guide](https://hidden-fee-authority.vercel.app/ai-veterinary-bill-checker/)
+- [AI Ai Renewal Term Checker guide](https://hidden-fee-authority.vercel.app/ai-renewal-term-checker/)
+- [AI Ai Small Business Fee Auditor guide](https://hidden-fee-authority.vercel.app/ai-small-business-fee-auditor/)
