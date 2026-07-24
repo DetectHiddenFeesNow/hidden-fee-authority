@@ -105,3 +105,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Saas Subscription Checker](https://hidden-fee-authority.vercel.app/ai-saas-subscription-checker/)
 - [AI Ai Cloud Service Fee Checker](https://hidden-fee-authority.vercel.app/ai-cloud-service-fee-checker/)
 - [AI Ai Coworking Space Checker](https://hidden-fee-authority.vercel.app/ai-coworking-space-checker/)
+- [AI Ai It Support Contract Checker](https://hidden-fee-authority.vercel.app/ai-it-support-contract-checker/)
+- [AI Ai Payroll Service Checker](https://hidden-fee-authority.vercel.app/ai-payroll-service-checker/)
+- [AI Ai Water Delivery Checker](https://hidden-fee-authority.vercel.app/ai-water-delivery-checker/)
+- [AI Ai Lawn Care Subscription Checker](https://hidden-fee-authority.vercel.app/ai-lawn-care-subscription-checker/)
