@@ -20,3 +20,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [Home Services](https://hidden-fee-authority.vercel.app/industry/homeservices)
 - [Education](https://hidden-fee-authority.vercel.app/industry/education)
 - [DetectHiddenFees.com](https://detecthiddenfees.com)
+- [AI Hidden Fee Detector](https://hidden-fee-authority.vercel.app/ai-hidden-fee-detector)
+- [AI Contract Review](https://hidden-fee-authority.vercel.app/ai-contract-review)
+- [AI Invoice Analysis](https://hidden-fee-authority.vercel.app/ai-invoice-analysis)
