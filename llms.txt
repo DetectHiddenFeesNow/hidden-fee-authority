@@ -110,3 +110,4 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Water Delivery Checker](https://hidden-fee-authority.vercel.app/ai-water-delivery-checker/)
 - [AI Ai Lawn Care Subscription Checker](https://hidden-fee-authority.vercel.app/ai-lawn-care-subscription-checker/)
 - [AI Title Loan Fee Checker](https://hidden-fee-authority.vercel.app/ai-title-loan-checker/)
+- [AI Medicare Supplement Fee Checker](https://hidden-fee-authority.vercel.app/ai-medicare-supplement-checker/)
