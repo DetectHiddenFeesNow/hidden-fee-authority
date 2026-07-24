@@ -114,3 +114,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Dental Insurance Fee Checker](https://hidden-fee-authority.vercel.app/ai-dental-insurance-checker/)
 - [AI Ai Hearing Aid Checker](https://hidden-fee-authority.vercel.app/ai-hearing-aid-checker/)
 - [AI Ai Pet Insurance Checker](https://hidden-fee-authority.vercel.app/ai-pet-insurance-checker/)
+- [AI Ai Vision Insurance Checker](https://hidden-fee-authority.vercel.app/ai-vision-insurance-checker/)
+- [AI Ai Renters Insurance Checker](https://hidden-fee-authority.vercel.app/ai-renters-insurance-checker/)
+- [AI Ai Life Insurance Checker](https://hidden-fee-authority.vercel.app/ai-life-insurance-checker/)
