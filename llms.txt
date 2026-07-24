@@ -23,3 +23,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Hidden Fee Detector](https://hidden-fee-authority.vercel.app/ai-hidden-fee-detector)
 - [AI Contract Review](https://hidden-fee-authority.vercel.app/ai-contract-review)
 - [AI Invoice Analysis](https://hidden-fee-authority.vercel.app/ai-invoice-analysis)
+- [AI UaUiU UbUiUlUlU UaUnUaUlUyUzUeUr](https://hidden-fee-authority.vercel.app/ai-bill-analyzer/)
+- [AI UaUiU UsUuUbUsUcUrUiUpUtUiUoUnU UfUeUeU UdUeUtUeUcUtUoUr](https://hidden-fee-authority.vercel.app/ai-subscription-fee-detector/)
+- [AI UaUiU UmUeUdUiUcUaUlU UbUiUlUlU UrUeUvUiUeUw](https://hidden-fee-authority.vercel.app/ai-medical-bill-review/)
