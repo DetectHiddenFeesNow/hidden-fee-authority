@@ -47,3 +47,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI uauiu uluouaunu ufueueu ucuhueucukueur guide](https://hidden-fee-authority.vercel.app/ai-loan-fee-checker/)
 - [AI uauiu umuouvuiunugu ucuoumupuaunuyu udueutueucutuour guide](https://hidden-fee-authority.vercel.app/ai-moving-company-detector/)
 - [AI uauiu upueutu ubuouauruduiunugu ufuiunudueur guide](https://hidden-fee-authority.vercel.app/ai-pet-boarding-finder/)
+- [AI Ai Investment Fee Detector guide](https://hidden-fee-authority.vercel.app/ai-investment-fee-detector/)
+- [AI Ai Senior Care Fee Finder guide](https://hidden-fee-authority.vercel.app/ai-senior-care-fee-finder/)
+- [AI Ai Identity Theft Checker guide](https://hidden-fee-authority.vercel.app/ai-identity-theft-checker/)
