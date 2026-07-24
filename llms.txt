@@ -89,3 +89,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Pharmacy Bill Checker guide](https://hidden-fee-authority.vercel.app/ai-pharmacy-bill-checker/)
 - [AI Ai Daycare Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-daycare-fee-checker/)
 - [AI Ai Pet Ownership Checker guide](https://hidden-fee-authority.vercel.app/ai-pet-ownership-checker/)
+- [AI Ai Mortgage Refinance Checker guide](https://hidden-fee-authority.vercel.app/ai-mortgage-refinance-checker/)
+- [AI Ai Property Tax Reviewer guide](https://hidden-fee-authority.vercel.app/ai-property-tax-reviewer/)
+- [AI Ai Construction Permit Checker guide](https://hidden-fee-authority.vercel.app/ai-construction-permit-checker/)
+- [AI Ai Hotel Resort Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-hotel-resort-fee-checker/)
