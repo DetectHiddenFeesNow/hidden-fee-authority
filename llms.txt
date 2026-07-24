@@ -112,3 +112,5 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Title Loan Fee Checker](https://hidden-fee-authority.vercel.app/ai-title-loan-checker/)
 - [AI Medicare Supplement Fee Checker](https://hidden-fee-authority.vercel.app/ai-medicare-supplement-checker/)
 - [AI Dental Insurance Fee Checker](https://hidden-fee-authority.vercel.app/ai-dental-insurance-checker/)
+- [AI Ai Hearing Aid Checker](https://hidden-fee-authority.vercel.app/ai-hearing-aid-checker/)
+- [AI Ai Pet Insurance Checker](https://hidden-fee-authority.vercel.app/ai-pet-insurance-checker/)
