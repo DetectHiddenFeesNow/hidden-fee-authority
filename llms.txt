@@ -125,3 +125,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Furniture Rental Fee Checker](https://hidden-fee-authority.vercel.app/ai-furniture-rental-checker/)
 - [AI Event Ticket Fee Checker](https://hidden-fee-authority.vercel.app/ai-event-ticket-checker/)
 - [AI Health Clinic Membership Fee Checker](https://hidden-fee-authority.vercel.app/ai-health-clinic-checker/)
+- [AI Meal Kit Fee Checker](https://hidden-fee-authority.vercel.app/ai-meal-kit-checker/)
+- [AI Courier Service Fee Checker](https://hidden-fee-authority.vercel.app/ai-courier-service-checker/)
+- [AI Grocery Delivery Fee Finder](https://hidden-fee-authority.vercel.app/ai-grocery-delivery-fee-finder/)
+- [AI Music Streaming Fee Checker](https://hidden-fee-authority.vercel.app/ai-music-streaming-checker/)
