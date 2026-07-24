@@ -73,3 +73,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Tax Consultant Checker guide](https://hidden-fee-authority.vercel.app/ai-tax-consultant-checker/)
 - [AI Ai Pawn Shop Checker guide](https://hidden-fee-authority.vercel.app/ai-pawn-shop-checker/)
 - [AI Ai Notary Service Checker guide](https://hidden-fee-authority.vercel.app/ai-notary-service-checker/)
+- [AI Ai Food Delivery Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-food-delivery-fee-checker/)
+- [AI Ai Wedding Service Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-wedding-service-fee-checker/)
+- [AI Ai Pest Control Checker guide](https://hidden-fee-authority.vercel.app/ai-pest-control-checker/)
+- [AI Ai Roofing Estimate Checker guide](https://hidden-fee-authority.vercel.app/ai-roofing-estimate-checker/)
