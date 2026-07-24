@@ -129,3 +129,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Courier Service Fee Checker](https://hidden-fee-authority.vercel.app/ai-courier-service-checker/)
 - [AI Grocery Delivery Fee Finder](https://hidden-fee-authority.vercel.app/ai-grocery-delivery-fee-finder/)
 - [AI Music Streaming Fee Checker](https://hidden-fee-authority.vercel.app/ai-music-streaming-checker/)
+- [AI Parking Garage Fee Checker](https://hidden-fee-authority.vercel.app/ai-parking-garage-checker/)
+- [AI Bicycle Sharing Fee Checker](https://hidden-fee-authority.vercel.app/ai-bicycle-sharing-checker/)
+- [AI Rideshare Fee Checker](https://hidden-fee-authority.vercel.app/ai-rideshare-fee-checker/)
+- [AI Scooter Sharing Fee Checker](https://hidden-fee-authority.vercel.app/ai-scooter-sharing-checker/)
