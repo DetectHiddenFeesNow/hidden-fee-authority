@@ -93,3 +93,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Property Tax Reviewer guide](https://hidden-fee-authority.vercel.app/ai-property-tax-reviewer/)
 - [AI Ai Construction Permit Checker guide](https://hidden-fee-authority.vercel.app/ai-construction-permit-checker/)
 - [AI Ai Hotel Resort Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-hotel-resort-fee-checker/)
+- [AI Ai Appliance Warranty Checker guide](https://hidden-fee-authority.vercel.app/ai-appliance-warranty-checker/)
+- [AI Ai Car Warranty Checker guide](https://hidden-fee-authority.vercel.app/ai-car-warranty-checker/)
+- [AI Ai Travel Service Checker guide](https://hidden-fee-authority.vercel.app/ai-travel-service-checker/)
+- [AI Ai Prepaid Card Checker guide](https://hidden-fee-authority.vercel.app/ai-prepaid-card-checker/)
