@@ -44,3 +44,6 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI uauiu uhuoumueu urueunuouvuautuiuounu ucuhueucukueur guide](https://hidden-fee-authority.vercel.app/ai-home-renovation-checker/)
 - [AI uauiu ufurueueuluaunucueu ucuounuturuaucutu urueuvuiueuwueur guide](https://hidden-fee-authority.vercel.app/ai-freelance-contract-reviewer/)
 - [AI uauiu utuauxu upurueupu ufueueu ufuiunudueur guide](https://hidden-fee-authority.vercel.app/ai-tax-prep-fee-finder/)
+- [AI uauiu uluouaunu ufueueu ucuhueucukueur guide](https://hidden-fee-authority.vercel.app/ai-loan-fee-checker/)
+- [AI uauiu umuouvuiunugu ucuoumupuaunuyu udueutueucutuour guide](https://hidden-fee-authority.vercel.app/ai-moving-company-detector/)
+- [AI uauiu upueutu ubuouauruduiunugu ufuiunudueur guide](https://hidden-fee-authority.vercel.app/ai-pet-boarding-finder/)
