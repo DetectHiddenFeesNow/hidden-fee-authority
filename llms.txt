@@ -81,3 +81,7 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Ai Towing Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-towing-fee-checker/)
 - [AI Ai Cable Tv Fee Checker guide](https://hidden-fee-authority.vercel.app/ai-cable-tv-fee-checker/)
 - [AI Ai Subscription Box Checker guide](https://hidden-fee-authority.vercel.app/ai-subscription-box-checker/)
+- [AI Ai Furniture Store Checker guide](https://hidden-fee-authority.vercel.app/ai-furniture-store-checker/)
+- [AI Ai Membership Warehouse Checker guide](https://hidden-fee-authority.vercel.app/ai-membership-warehouse-checker/)
+- [AI Ai Student Loan Checker guide](https://hidden-fee-authority.vercel.app/ai-student-loan-checker/)
+- [AI Ai Car Rental Checker guide](https://hidden-fee-authority.vercel.app/ai-car-rental-checker/)
