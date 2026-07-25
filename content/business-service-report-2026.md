@@ -1,0 +1,4 @@
+# The Hidden Business Service Report 2026
+desc: A report examining hidden fees in business services including HVAC, plumbing, and electrical contractor pricing.
+## Executive Summary
+Home service contracts often include fees not clearly disclosed in initial estimates.
