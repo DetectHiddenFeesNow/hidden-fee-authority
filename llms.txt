@@ -127,4 +127,15 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [AI Water Delivery Checker](https://hidden-fee-authority.vercel.app/ai-water-delivery-checker/)
 - [AI Wedding Service Fee Checker](https://hidden-fee-authority.vercel.app/ai-wedding-service-fee-checker/)
 
+- [Hidden Fee Statistics](https://hidden-fee-authority.vercel.app/hidden-fee-statistics/)
+- [Consumer Fee Protection Guide 2026](https://hidden-fee-authority.vercel.app/consumer-fee-protection-guide-2026/)
+- [The Hidden Fees Consumer Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-fees-consumer-report-2026/)
+- [The Hidden Healthcare Costs Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-healthcare-costs-report-2026/)
+- [The Hidden Subscription Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-subscription-fees-report-2026/)
+- [The Hidden Insurance Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-insurance-fees-report-2026/)
+- [The Hidden Banking Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-banking-fees-report-2026/)
+- [The Hidden Telecom Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-telecom-fees-report-2026/)
+- [The Hidden Travel Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-travel-fees-report-2026/)
+- [The Hidden Auto Dealer Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-auto-dealer-fees-report-2026/)
+- 
 - [DetectHiddenFees.com](https://detecthiddenfees.com)
