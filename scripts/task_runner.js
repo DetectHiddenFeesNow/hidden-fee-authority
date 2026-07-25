@@ -1,0 +1,1 @@
+var t=process.argv[2]||"help";var a={audit:"node scripts/audit_backlinks.js",generate:"node scripts/page_generator.js",verify:"rg Example scenario C:\\vhub -c",deploy:"git push origin main",sitemap:"echo checking..."};if(a[t])console.log("Running: "+t);else console.log("Usage: node task_runner.js [audit|generate|verify|deploy|sitemap]");
