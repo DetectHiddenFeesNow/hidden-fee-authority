@@ -1,0 +1,1 @@
+var fs=require("fs");var md=process.argv[2];if(!md){console.log("Usage: node page_generator.js <file.md>");process.exit(1)}var content=fs.readFileSync(md,"utf8");var lines=content.split("\n");var title="";var desc="";var body=[];var faqItems=[];var state="head";

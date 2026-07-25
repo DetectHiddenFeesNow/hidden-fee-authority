@@ -1,0 +1,1 @@
+var a=require("fs").readFileSync("C:/vhub/bootstrap/fs1.b64","utf8");var b=require("fs").readFileSync("C:/vhub/bootstrap/fs2.b64","utf8");require("fs").writeFileSync("C:/vhub/content/final_stats.md",Buffer.from(a+b,"base64"))

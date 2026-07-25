@@ -1,0 +1,1 @@
+var a=require("fs").readFileSync("C:/vhub/bootstrap/stats_chunk1.b64","utf8");var b=require("fs").readFileSync("C:/vhub/bootstrap/stats_chunk2.b64","utf8");require("fs").writeFileSync("C:/vhub/content/stats_v2.md",Buffer.from(a+b,"base64"));var s=require("fs").statSync("C:/vhub/content/stats_v2.md").size;console.log("Decoded: "+s+" bytes");

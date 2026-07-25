@@ -1,0 +1,3 @@
+var fs=require("fs"),pages=fs.readdirSync("C:/vhub").filter(function(d){return d.startsWith("ai-")}),fixed=0,today="2026-07-25";
+pages.forEach(function(d){var f="C:/vhub/"+d+"/index.html";if(!fs.existsSync(f))return;var c=fs.readFileSync(f,"utf8");if(c.indexOf("datePublished")>=0)return;var m=c.match(/<script type=\"application\/ld\+json\">([^<]+)<\/script>/);if(!m)return;var s=m[1];if(s.indexOf("Article")<0)return;
+var s2=s.replace(JSON.stringify("@type"),JSON.stringify("@type")+","+JSON.stringify("datePublished")+":"+JSON.stringify(today)+","+JSON.stringify("dateModified")+":"+JSON.stringify(today));c=c.replace(s,s2);fs.writeFileSync(f,c);fixed++});console.log("Fixed: "+fixed);
