@@ -137,5 +137,8 @@ Research and knowledge platform about hidden fees, pricing transparency, and AI 
 - [The Hidden Telecom Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-telecom-fees-report-2026/)
 - [The Hidden Travel Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-travel-fees-report-2026/)
 - [The Hidden Auto Dealer Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-auto-dealer-fees-report-2026/)
+- [The Hidden Rental Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-rental-fees-report-2026/)
+- [The Hidden Contractor Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-contractor-fees-report-2026/)
+- [The Hidden Legal Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-legal-fees-report-2026/)
 - 
 - [DetectHiddenFees.com](https://detecthiddenfees.com)
