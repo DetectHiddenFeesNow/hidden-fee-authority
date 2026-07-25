@@ -1,0 +1,1 @@
+var f=require("fs"),chunks=["cg1","cg2","cg3","cg4"],b="";chunks.forEach(function(k){b+=f.readFileSync("C:/vhub/bootstrap/"+k+".b64","utf8")});f.writeFileSync("C:/vhub/content/consumer-fee-protection-guide.md",Buffer.from(b,"base64"));var s=f.statSync("C:/vhub/content/consumer-fee-protection-guide.md").size;console.log("Decoded: "+s+" bytes");
