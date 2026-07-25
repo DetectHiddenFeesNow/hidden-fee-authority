@@ -1,1 +1,4 @@
-# Hidden UaUtUmU UfUeUeUs\ndesc: Understanding UaUtUmU UfUeUeUs.\n## Executive Summary\nUaUtUmU UfUeUeUs can increase banking costs.\n
+# Hidden ATM Fees
+desc: Understanding ATM surcharge fees and how to avoid them.
+## Executive Summary
+ATM fees apply when using out-of-network machines for withdrawals and balance inquiries.
