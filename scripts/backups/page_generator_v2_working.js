@@ -1,7 +1,7 @@
 var fs=require("fs");
 var md=process.argv[2];
 if(!md||md=="--test"){
- console.log("Page Generator v2 ["+PG_VERSION+"]");
+ console.log("Page Generator v2");
  console.log("Usage: node page_generator.js <markdown_file>");
  if(md=="--test"){
   console.log("---");
@@ -56,4 +56,3 @@ if(!PG.includes("trust"))console.log("ERROR: No trust signals");
 if(!AS.includes("datePublished"))console.log("ERROR: No datePublished");
 console.log("=== ALL CHECKS PASSED ===");
 fs.writeFileSync(dir+"/index.html",PG);
-
