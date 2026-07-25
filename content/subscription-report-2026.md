@@ -120,6 +120,20 @@ Bundled subscriptions make it harder to identify individual price increases with
 The average household manages multiple active subscriptions across various categories.
 Future pricing will include dynamic models that adjust based on usage and behavior.
 
+## Subscription Price Increase Analysis
+Introductory pricing is a standard acquisition strategy. New subscribers receive a lower rate for a limited period typically 3-12 months. After the introductory period the price increases to the standard rate which can be substantially higher. Some services grandfather existing subscribers at original rates but later remove grandfathering to force upgrades. Price increases often occur without detailed notification to subscribers. Consumers may not notice the increase because charges continue to process automatically.
+## Free Trial Conversion Traps
+Free trials require credit card information upfront. If the trial is not canceled before the end date the subscription automatically converts to a paid plan. Trial periods range from 3 to 30 days providing limited evaluation time. Reminder notifications about trial end dates are often minimal or absent. Some services charge the first billing period immediately after the trial ends without separate confirmation.
+## Subscription Stacking Problem
+The average household accumulates multiple subscriptions over time. Each individual subscription may seem affordable but the combined monthly total can be significant. Forgotten subscriptions continue billing indefinitely. Regular subscription audits help identify services that are no longer needed.
+
+## Cancellation Barriers and Dark Patterns
+Many subscription services use intentionally difficult cancellation processes to retain subscribers who want to cancel. Online cancellation may be hidden in account settings rather than clearly accessible. Some services require phone calls during business hours or certified mail for cancellation requests. Notice periods of 30-60 days before the renewal date are common. These barriers are designed to discourage cancellation and maximize continued billing. Consumer protection laws in some states require simpler cancellation mechanisms.
+## AI Detection Methodology
+AI document analysis of subscription terms uses optical character recognition to extract contract language from enrollment agreements and terms of service documents. The system identifies renewal clause language, price escalation provisions, initiation fee disclosures, downgrade penalty structures, and cancellation requirements. Pattern matching compares identified terms against industry standards to flag potentially problematic language. The analysis completes within seconds for standard subscription documents and provides a summary report highlighting identified fee clauses and their potential consumer impact.
+## Key Consumer Protections
+The Restore Online Shoppers Confidence Act requires clear disclosure of automatic renewal terms and easy cancellation mechanisms. Several states require advance notice before automatic renewal periods begin. Some states mandate pro-rata refunds when consumers cancel early. Understanding the consumer protections applicable in your jurisdiction helps when disputing subscription fees that were not properly disclosed.
+
 faq:
 - What is a subscription hidden fee? Charges added to a subscription not clearly disclosed in the advertised price.
 - How common are subscription price increases? Annual increases of 10-30 percent are standard across most categories.
