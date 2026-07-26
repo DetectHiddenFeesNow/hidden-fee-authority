@@ -217,10 +217,40 @@ function buildTable(rows) {
 var catMeta = catMeta || "default";
 var cm; try { cm = JSON.parse(fs.readFileSync("/tmp/hidden-fee-authority/scripts/cta_map.json", "utf8")); } catch(e) { cm = { default: { paragraph: "Upload.", button: "Analyze", url: "https://detecthiddenfees.com" } }; }
 var C = cm[catMeta] || cm.default;
-function uniqueCTA(title) {var t = title.replace(/^(the |a |an )/i, "").replace(/d{4}$/, "").trim();var words = t.split(/s+/).filter(function(w){return w.length>3}).slice(0,4);var kw = words.length > 0 ? words.join(" ") : "your document";var prefixes = ["Upload your " + kw + " and let AI scan for ","Before signing, scan your " + kw + " to uncover ","Don't overpay. Analyze your " + kw + " now to detect ","AI-powered review of your " + kw + " can reveal ","Stop overpaying. Let AI examine your " + kw + " for ","Upload your " + kw + " documents and detect ","Your " + kw + " may contain hidden charges. AI can find ","Run an AI check on your " + kw + " to identify ","Hidden fees lurk in " + kw + ". AI analysis finds ","Take control of your " + kw + " costs. AI detects "];var suffixes = ["overcharges, unexpected fees, and billing errors.","hidden costs, fine print traps, and unnecessary charges.","unexpected fees, duplicate billing, and hidden surcharges.","hidden add-ons, fee creep, and pricing discrepancies.","overlooked charges, recurring fees, and policy exclusions.","buried costs, misleading fees, and unexpected surcharges.","hidden expenses, billing mistakes, and undisclosed charges.","unexpected markups, recurring deductions, and fee traps.","concealed charges, service fees, and billing irregularities.","surprise fees, auto-renewals, and hidden subscription costs."];var idx = (title.length + kw.length) % prefixes.length;return prefixes[idx] + suffixes[idx];}function mK(h, isBottom) {var p = isBottom ? uniqueCTA(title) : (uniqueCTA(title) + " Upload now for a free analysis.");return '<div class="cta"><h2>' + h + '</h2><p>' + p + '</p><a href="' + C.url + '" class="btn">' + C.button + '</a><div class="trust"><span>Private analysis</span><span>No data stored</span><span>Secure upload</span></div></div>'; }
-var tC = mK("Find Hidden Fees Before They Cost You Money", false);
-var mC = mK("Ready To Find Hidden Charges?", false);
-var bC = mK("Protect Yourself From Hidden Costs", true);
+function mK(h) {
+  var t = title.replace(/^(the |a |an |hidden )/i,"").replace(/\d{4}$/,"").trim();
+  var words = t.split(/\s+/).filter(function(w){return w.length>3 && w.toLowerCase()!="hidden"});
+  var kw = words.join(" ") || "your documents";
+  var patterns = [
+    "Upload your " + kw + " and let AI identify every hidden charge and billing error in minutes.",
+    "Scan your " + kw + " now to uncover unexpected fees, buried costs, and pricing mistakes.",
+    "Your " + kw + " may contain fees you never noticed. AI examines every line for hidden charges.",
+    "Before paying your " + kw + ", let AI catch hidden fees, duplicate charges, and fine-print traps.",
+    "Stop guessing what your " + kw + " really costs. AI detects every hidden fee and overcharge.",
+    "Don\'t let hidden fees drain your budget. Upload your " + kw + " for a complete AI audit.",
+    "Hidden fees in " + kw + " cost consumers billions. AI finds every one so you can fight back.",
+    "Get clarity on your " + kw + " costs. AI reveals hidden surcharges, add-ons, and unexpected fees.",
+    "Your " + kw + " likely has hidden charges you are not seeing. AI scans and flags them all.",
+    "Every line of your " + kw + " gets analyzed by AI to find hidden fees others miss."
+  ];
+  var buttons = [
+    "Analyze My " + words.slice(0,2).join(" ") + " Now",
+    "Scan My " + words[0] + " for Hidden Fees",
+    "Review My " + words.slice(0,2).join(" "),
+    "Check My " + words.slice(0,2).join(" ") + " for Hidden Charges",
+    "Find Hidden Costs in My " + words.slice(0,2).join(" "),
+    "Audit My " + words.slice(0,2).join(" "),
+    "Analyze My " + words.slice(0,2).join(" "),
+    "Detect Hidden Fees in My " + words.slice(0,2).join(" "),
+    "Examine My " + words.slice(0,2).join(" "),
+    "Uncover Hidden Fees in My " + words.slice(0,2).join(" ")
+  ];
+  var idx = 0; for(var i=0;i<title.length;i++){idx=(idx+title.charCodeAt(i)*13)%patterns.length}
+  return '<div class="cta"><h2>' + h + '</h2><p>' + patterns[idx] + '</p><a href="https://detecthiddenfees.com" class="btn">' + buttons[idx] + '</a><div class="trust"><span>Private analysis</span><span>No data stored</span><span>Secure upload</span></div></div>';
+}
+var tC = mK("Find Hidden Fees Before They Cost You Money");
+var mC = mK("Ready To Find Hidden Charges?");
+var bC = mK("Protect Yourself From Hidden Costs");
 
 var bodyHtml = renderBody(body);
 
