@@ -1,0 +1,1 @@
+var f=require("fs");f.mkdirSync("C:/vhub/agent",{recursive:true});var b="";for(var i=1;i<=3;i++){b+=f.readFileSync("C:/vhub/agent/agent_s"+i+".b64","utf8")};f.writeFileSync("C:/vhub/agent/agent.js",Buffer.from(b,"base64"));console.log(f.statSync("C:/vhub/agent/agent.js").size);

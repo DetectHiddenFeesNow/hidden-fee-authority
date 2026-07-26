@@ -1,0 +1,1 @@
+var f=require("fs"),b=Buffer.alloc(0);for(var i=1;i<=3;i++){var c=f.readFileSync("C:/vhub/agent/s"+i+".b64","utf8");b=Buffer.concat([b,Buffer.from(c,"base64")])};f.writeFileSync("C:/vhub/agent/agent.js",b);console.log(b.length);
