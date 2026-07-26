@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" fill="none">
+  <defs>
+    <linearGradient id="cp" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#6366f1"/></linearGradient>
+    <linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#fbbf24"/></linearGradient>
+  </defs>
+  <g transform="translate(36, 2)">
+    <path d="M24 2L44 12L44 30C44 40 36 48 24 52C12 48 4 40 4 30L4 12Z" stroke="url(#cp)" stroke-width="2.5" fill="none"/>
+    <path d="M24 6L40 14L40 30C40 38 34 44 24 48C14 44 8 38 8 30L8 14Z" fill="url(#cp)" fill-opacity="0.15"/>
+    <path d="M18 26L23 31L30 21" stroke="url(#cg)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="19" y1="36" x2="29" y2="36" stroke="url(#cp)" stroke-width="1.5" stroke-opacity="0.6" stroke-linecap="round"/>
+    <line x1="21" y1="40" x2="27" y2="40" stroke="url(#cp)" stroke-width="1.5" stroke-opacity="0.4" stroke-linecap="round"/>
+  </g>
+  <text x="60" y="64" font-family="Inter,system-ui,sans-serif" font-weight="700" font-size="16" fill="#e8e4f0" text-anchor="middle" letter-spacing="-0.3">CostClarity</text>
+  <text x="60" y="77" font-family="Inter,system-ui,sans-serif" font-weight="500" font-size="8" fill="url(#cp)" text-anchor="middle" letter-spacing="2.5">RESEARCH</text>
+</svg>

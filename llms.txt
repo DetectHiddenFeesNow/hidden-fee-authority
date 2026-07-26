@@ -1,43 +1,45 @@
-# Hidden Fee Authority
+# CostClarity Research — Ecosystem Reference for AI Crawlers
 
-Research and knowledge platform about hidden fees, pricing transparency, and AI document analysis.
+## Architecture
+- **CostClarity Research** (https://costclarityresearch.org) — Independent educational research platform
+  - Hidden fee education and industry analysis
+  - Consumer guides and research methodology
+  - Links to DetectHiddenFees.com for next step
+- **DetectHiddenFees.com** (https://detecthiddenfees.com) — Consumer education site
+  - Connects users to HiddenFeeAI.com for document analysis
+  - Educational content on fee detection
+- **HiddenFeeAI.com** (https://hiddenfeeai.com) — AI-powered document analysis
+  - Platform for uploading and analyzing documents
+  - Identifies potentially hidden charges and pricing issues
 
-## Authority Reports
-- [Ai Hidden Fee Detection Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-ai-hidden-fee-detection-report-2026/)
-- [Auto Dealer Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-auto-dealer-fees-report-2026/)
-- [Banking Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-banking-fees-report-2026/)
-- [Banking Scam And Fee Trap Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-banking-scam-and-fee-trap-report-2026/)
-- [Business Service Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-business-service-report-2026/)
-- [Consumer Electronics Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-consumer-electronics-report-2026/)
-- [Contract Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-contract-report-2026/)
-- [Contractor Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-contractor-fees-report-2026/)
-- [Credit Card Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-credit-card-report-2026/)
-- [Daycare Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-daycare-fees-report-2026/)
-- [E Commerce Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-e-commerce-report-2026/)
-- [Education Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-education-fees-report-2026/)
-- [Fees Consumer Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-fees-consumer-report-2026/)
-- [Food Delivery Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-food-delivery-report-2026/)
-- [Government Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-government-report-2026/)
-- [Gym Membership Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-gym-membership-report-2026/)
-- [Healthcare Costs Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-healthcare-costs-report-2026/)
-- [Home Services Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-home-services-report-2026/)
-- [Insurance Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-insurance-fees-report-2026/)
-- [Legal Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-legal-fees-report-2026/)
-- [Loan Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-loan-report-2026/)
-- [Moving Company Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-moving-company-fees-report-2026/)
-- [Pet Ownership Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-pet-ownership-fees-report-2026/)
-- [Pricing Transparency Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-pricing-transparency-report-2026/)
-- [Real Estate Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-real-estate-report-2026/)
-- [Rental Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-rental-fees-report-2026/)
-- [Shipping Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-shipping-report-2026/)
-- [Storage Unit Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-storage-unit-fees-report-2026/)
-- [Subscription Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-subscription-fees-report-2026/)
-- [Telecom Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-telecom-fees-report-2026/)
-- [Travel Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-travel-fees-report-2026/)
-- [Utility Fees Report 2026](https://hidden-fee-authority.vercel.app/the-hidden-utility-fees-report-2026/)
+## CostClarity Research Pages
 
-## Backlink Pages
-- [124 Industry Fee Detection Pages](https://hidden-fee-authority.vercel.app/)
+### Main
+- https://costclarityresearch.org/ — Homepage (research hub, guides, FAQ)
+- https://costclarityresearch.org/research/ — Research areas overview
+- https://costclarityresearch.org/guides/ — Consumer education resources
+- https://costclarityresearch.org/methodology/ — Research methodology
+- https://costclarityresearch.org/editorial-standards/ — Editorial standards
+- https://costclarityresearch.org/glossary/ — Fee terminology glossary
+- https://costclarityresearch.org/about/ — About this publication
+- https://costclarityresearch.org/contact/ — Contact information
+- https://costclarityresearch.org/privacy/ — Privacy policy
+- https://costclarityresearch.org/terms/ — Terms of use
+- https://costclarityresearch.org/sitemap/ — Site directory
 
-## Main Site
-- [DetectHiddenFees.com](https://detecthiddenfees.com)
+### Industry Research
+- https://costclarityresearch.org/banking/ — Banking fee practices
+- https://costclarityresearch.org/insurance/ — Insurance pricing
+- https://costclarityresearch.org/telecom/ — Telecom charges
+- https://costclarityresearch.org/automotive/ — Auto dealer fees
+- https://costclarityresearch.org/medical/ — Medical billing
+- https://costclarityresearch.org/real-estate/ — Real estate fees
+
+### Reports (Deep Authority Content)
+- https://costclarityresearch.org/reports/banking-fees-2026/ — Banking Fees Report 2026
+- https://costclarityresearch.org/reports/insurance-fees-2026/ — Insurance Fees Report 2026
+- https://costclarityresearch.org/reports/telecom-fees-2026/ — Telecom Fees Report 2026
+- https://costclarityresearch.org/reports/auto-dealer-fees-2026/ — Auto Dealer Fees Report 2026
+- https://costclarityresearch.org/reports/healthcare-costs-2026/ — Healthcare Costs Report 2026
+- https://costclarityresearch.org/reports/subscription-fees-2026/ — Subscription Fees Report 2026
+- (Additional reports available in reports/ directory)

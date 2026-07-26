@@ -1,21 +1,35 @@
 User-agent: *
 Allow: /
-Sitemap: https://hidden-fee-authority.vercel.app/sitemap.xml
+Allow: /research/
+Allow: /guides/
+Allow: /reports/
+Allow: /banking/
+Allow: /insurance/
+Allow: /telecom/
+Allow: /automotive/
+Allow: /medical/
+Allow: /real-estate/
+Disallow: /assets/
 
 User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
 Allow: /
 
 User-agent: Google-Extended
 Allow: /
 
+User-agent: CCBot
+Allow: /
+
 User-agent: anthropic-ai
+Allow: /
+
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
 Allow: /
 
-User-agent: CCBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
+Sitemap: https://costclarityresearch.org/sitemap.xml

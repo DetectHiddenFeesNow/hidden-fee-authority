@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <g transform="translate(2, 6)">
+    <path d="M24 2L44 12L44 30C44 40 36 48 24 52C12 48 4 40 4 30L4 12Z" stroke="#94a3b8" stroke-width="2.5" fill="none"/>
+    <path d="M18 26L23 31L30 21" stroke="#64748b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="19" y1="36" x2="29" y2="36" stroke="#94a3b8" stroke-width="1.5" stroke-opacity="0.5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(54, 14)">
+    <text x="0" y="0" font-family="Inter,system-ui,sans-serif" font-weight="700" font-size="20" fill="#1e293b" letter-spacing="-0.4">CostClarity</text>
+    <text x="0" y="17" font-family="Inter,system-ui,sans-serif" font-weight="500" font-size="10" fill="#64748b" letter-spacing="3">RESEARCH</text>
+  </g>
+</svg>
