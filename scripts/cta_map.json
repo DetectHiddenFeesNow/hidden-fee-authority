@@ -1,6 +1,87 @@
 {
-  "banking":{"top":{"h":"Find Hidden Bank Fees Before They Drain Your Account","d":"Upload bank statements and let AI identify overdraft fees, ATM charges, maintenance fees, and unexpected banking costs.","b":"Analyze My Bank Statement"},"mid":{"h":"Upload Your Bank Statement and Discover Hidden Charges","d":"AI scans statements to identify fee patterns and calculate your total annual banking costs.","b":"Scan My Statements"},"bot":{"h":"See What Your Bank Is Charging You","d":"Upload statements and let AI reveal every fee you may be paying unnecessarily.","b":"Analyze My Account"}},
-  "insurance":{"top":{"h":"Find Hidden Insurance Charges Before You Overpay","d":"Upload policy documents and let AI identify premium increases, hidden charges, exclusions, and unnecessary add-ons.","b":"Analyze My Insurance Policy"},"mid":{"h":"Analyze Your Policy for Hidden Fees and Unnecessary Costs","d":"AI scans insurance documents to identify charges that increase your premiums without adding value.","b":"Review My Policy"},"bot":{"h":"Discover Insurance Fees You May Be Paying Unnecessarily","d":"Upload your insurance documents and see exactly which fees are costing you money.","b":"Find Hidden Insurance Fees"}},
-  "telecom":{"top":{"h":"Find Hidden Telecom Fees Increasing Your Monthly Bill","d":"Upload phone, internet, or cable bill and let AI detect equipment fees, rate increases, and hidden charges.","b":"Analyze My Telecom Bill"},"mid":{"h":"Scan Your Phone, Internet, or Cable Bill for Hidden Charges","d":"AI analyzes telecom bills line-by-line to identify every surcharge and fee.","b":"Scan My Bill"},"bot":{"h":"See What Hidden Telecom Fees Are Costing You","d":"Upload your latest bill and discover fees you may be able to eliminate or reduce.","b":"Check My Telecom Bill"}},
-  "automotive":{"top":{"h":"Find Hidden Dealer Fees Before You Buy Your Next Vehicle","d":"Upload purchase agreements and let AI identify dealer fees, add-ons, financing charges, and unnecessary costs.","b":"Analyze My Auto Contract"},"mid":{"h":"Analyze Your Auto Contract for Hidden Charges","d":"AI scans vehicle purchase agreements and financing documents for hidden dealer markups and fees.","b":"Review My Contract"},"bot":{"h":"Expose Hidden Car Fees Before They Cost You Thousands","d":"Upload your auto documents and let AI identify every hidden charge you may be able to negotiate.","b":"Find Hidden Auto Fees"}}
+  "default": {
+    "heading": "Find Hidden Fees in Your Documents",
+    "paragraph": "Upload any contract, bill, or statement and let AI identify hidden charges, unexpected fees, and potential savings.",
+    "button": "Analyze My Document",
+    "url": "https://detecthiddenfees.com"
+  },
+  "banking": {
+    "heading": "Find Hidden Banking Fees Before They Add Up",
+    "paragraph": "Upload your bank statement and let AI identify overdraft fees, ATM charges, maintenance fees, and other hidden banking costs.",
+    "button": "Analyze My Bank Statement",
+    "url": "https://detecthiddenfees.com"
+  },
+  "insurance": {
+    "heading": "Find Hidden Insurance Costs Before You Overpay",
+    "paragraph": "Upload your insurance documents and let AI detect hidden coverage fees, add-ons, and unexpected premium increases.",
+    "button": "Review My Insurance Policy",
+    "url": "https://detecthiddenfees.com"
+  },
+  "telecom": {
+    "heading": "Find Hidden Charges in Your Telecom Bills",
+    "paragraph": "Upload your phone, internet, or cable bill and let AI find hidden service charges and recurring fees.",
+    "button": "Analyze My Telecom Bill",
+    "url": "https://detecthiddenfees.com"
+  },
+  "automotive": {
+    "heading": "Find Hidden Fees in Your Vehicle Contract",
+    "paragraph": "Upload your vehicle contract and let AI identify dealer fees, financing charges, and hidden add-ons.",
+    "button": "Review My Vehicle Contract",
+    "url": "https://detecthiddenfees.com"
+  },
+  "medical": {
+    "heading": "Find Hidden Charges in Your Medical Bills",
+    "paragraph": "Upload your medical bill and let AI identify duplicate charges, billing errors, and unexpected healthcare fees.",
+    "button": "Analyze My Medical Bill",
+    "url": "https://detecthiddenfees.com"
+  },
+  "real-estate": {
+    "heading": "Find Hidden Fees in Your Real Estate Documents",
+    "paragraph": "Upload your closing documents or lease and let AI identify junk fees, inflated closing costs, and hidden charges.",
+    "button": "Review My Real Estate Documents",
+    "url": "https://detecthiddenfees.com"
+  },
+  "education": {
+    "heading": "Find Hidden Costs in Your Education Expenses",
+    "paragraph": "Upload your tuition bill or student loan statement and let AI identify hidden fees, administrative charges, and billing errors.",
+    "button": "Analyze My Education Costs",
+    "url": "https://detecthiddenfees.com"
+  },
+  "utilities": {
+    "heading": "Find Hidden Fees in Your Utility Bills",
+    "paragraph": "Upload your electric, gas, or water bill and let AI identify unexpected surcharges, rate changes, and hidden fees.",
+    "button": "Analyze My Utility Bill",
+    "url": "https://detecthiddenfees.com"
+  },
+  "subscriptions": {
+    "heading": "Find Hidden Subscription Charges You're Overpaying",
+    "paragraph": "Upload your subscription statement and let AI identify price increases, unused add-ons, and recurring charges you may have missed.",
+    "button": "Review My Subscriptions",
+    "url": "https://detecthiddenfees.com"
+  },
+  "contract": {
+    "paragraph": "Upload your contract and let AI identify hidden fees, fine-print clauses, and unexpected charges.",
+    "button": "Review My Contract",
+    "url": "https://detecthiddenfees.com"
+  },
+  "consumer": {
+    "paragraph": "Upload your receipts and billing statements for comprehensive AI fee analysis.",
+    "button": "Analyze My Documents",
+    "url": "https://detecthiddenfees.com"
+  },
+  "business": {
+    "paragraph": "Upload your business invoices and vendor contracts to identify hidden service fees.",
+    "button": "Review Business Documents",
+    "url": "https://detecthiddenfees.com"
+  },
+  "rental": {
+    "paragraph": "Upload your lease agreement and let AI identify hidden fees, security deposit traps, and fine-print charges.",
+    "button": "Review My Lease",
+    "url": "https://detecthiddenfees.com"
+  },
+  "travel": {
+    "paragraph": "Upload your travel booking and let AI find hidden resort fees, booking charges, and unexpected add-ons.",
+    "button": "Analyze My Travel Charges",
+    "url": "https://detecthiddenfees.com"
+  }
 }

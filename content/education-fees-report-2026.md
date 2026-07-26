@@ -1,5 +1,6 @@
 # The Hidden Education Fees Report 2026
 desc: A comprehensive analysis of hidden fees in education including tuition surcharges, technology fees, lab fees, activity charges, textbook costs, and strategies for reducing the true cost of higher education.
+category: education
 
 ## Executive Summary
 College and university costs extend far beyond advertised tuition rates. Technology fees, lab fees, activity charges, health center fees, parking permits, graduation fees, and course-specific surcharges can add $1,000-5,000 annually to the cost of higher education. Many of these fees are mandatory but not included in published tuition figures. This report examines hidden fee structures across public universities, private colleges, community colleges, and online education providers.
@@ -39,7 +40,7 @@ A student taking 5 courses may pay $500-800 per semester for required access cod
 Compare textbook prices across platforms before purchasing. Ask if used textbooks or rental options are acceptable. Check if the access code is truly required or if the professor offers alternatives.
 
 #### Example
-A biology course requires a $180 textbook bundled with a $100 online access code. The professor uses only the access code platform for homework. The student cannot buy the code separately — the bundled purchase is mandatory. Over 4 courses with similar requirements, materials cost $720.
+A biology course requires a $180 textbook bundled with a $100 online access code. The professor uses only the access code platform for homework. The student cannot buy the code separately â€” the bundled purchase is mandatory. Over 4 courses with similar requirements, materials cost $720.
 
 ## Dormitory and Housing Fees
 
@@ -148,21 +149,21 @@ faq:
 ## References
 
 ### Government Sources
-- Department of Education — College Scorecard and net price calculator requirements
-- Consumer Financial Protection Bureau (CFPB) — Student financial aid and fee disclosure oversight
+- Department of Education â€” College Scorecard and net price calculator requirements
+- Consumer Financial Protection Bureau (CFPB) â€” Student financial aid and fee disclosure oversight
 
 ### Consumer Protection Sources
-- Student Borrower Protection Center — Education fee research and advocacy
-- National Association of Student Financial Aid Administrators — Fee disclosure best practices
+- Student Borrower Protection Center â€” Education fee research and advocacy
+- National Association of Student Financial Aid Administrators â€” Fee disclosure best practices
 
 ### Industry Resources
-- College Board — Annual tuition and fee survey data
-- National Center for Education Statistics — Higher education cost data
+- College Board â€” Annual tuition and fee survey data
+- National Center for Education Statistics â€” Higher education cost data
 
 ### Regulatory Information
-- Higher Education Act — Tuition and fee disclosure requirements
-- State truth-in-tuition laws — Mandatory fee notification requirements by state
-- Department of Education net price calculator rule — Required cost of attendance tools
+- Higher Education Act â€” Tuition and fee disclosure requirements
+- State truth-in-tuition laws â€” Mandatory fee notification requirements by state
+- Department of Education net price calculator rule â€” Required cost of attendance tools
 
 ## Summary
 Hidden education fees can add $1,500-5,000 annually to the cost of higher education beyond published tuition. Technology fees, lab charges, activity fees, health center costs, and mandatory access codes for digital materials represent the highest-impact categories. Requesting complete fee schedules, comparing total cost of attendance across institutions, opting out of unnecessary services, and using price comparison tools help students reduce their education cost exposure.

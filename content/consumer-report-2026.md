@@ -1,11 +1,12 @@
 # The Hidden Fees Consumer Report 2026
 desc: A comprehensive research report examining hidden fees across major industries in 2026, including telecom, banking, insurance, travel, automotive, subscription, healthcare, and education sectors with consumer impact analysis and avoidance strategies.
+category: default
 
 ## Executive Summary
 This report examines the landscape of hidden fees facing consumers in 2026. Hidden fees remain a persistent financial burden across virtually every major industry, costing households substantial amounts annually. The report analyzes common fee types, industry practices, consumer awareness levels, and regulatory developments that affect how fees are disclosed. Total household hidden fee exposure across all categories can reach $2,000-5,000 annually.
 
 ## Key Statistics
-Hidden fees across all industries continue to impact consumers substantially. Telecom bills contain the highest number of separate surcharges of any consumer document — typically 5-15 per bill. Banking fees generate significant revenue for financial institutions annually with overdraft fees alone totaling billions. Insurance policy fees add 10-30 percent to premium costs. Travel industry resort fees of $25-75 per night remain common. Auto dealership fees can add $1,000-5,000 to vehicle purchase prices. Subscription services use auto-renewal escalation that increases costs 10-30 percent annually.
+Hidden fees across all industries continue to impact consumers substantially. Telecom bills contain the highest number of separate surcharges of any consumer document â€” typically 5-15 per bill. Banking fees generate significant revenue for financial institutions annually with overdraft fees alone totaling billions. Insurance policy fees add 10-30 percent to premium costs. Travel industry resort fees of $25-75 per night remain common. Auto dealership fees can add $1,000-5,000 to vehicle purchase prices. Subscription services use auto-renewal escalation that increases costs 10-30 percent annually.
 
 ## Industry Analysis
 
@@ -127,22 +128,22 @@ faq:
 ## References
 
 ### Government Sources
-- Federal Trade Commission (FTC) — Consumer protection and deceptive pricing enforcement
-- Consumer Financial Protection Bureau (CFPB) — Banking fee regulation and complaints
-- Federal Communications Commission (FCC) — Truth-in-billing rules
+- Federal Trade Commission (FTC) â€” Consumer protection and deceptive pricing enforcement
+- Consumer Financial Protection Bureau (CFPB) â€” Banking fee regulation and complaints
+- Federal Communications Commission (FCC) â€” Truth-in-billing rules
 
 ### Consumer Protection Sources
-- Consumer Reports — Hidden fee research and advocacy
-- Better Business Bureau — Fee complaint data and business accreditation
+- Consumer Reports â€” Hidden fee research and advocacy
+- Better Business Bureau â€” Fee complaint data and business accreditation
 
 ### Industry Resources
-- Pew Charitable Trusts — Fee transparency research
-- National Consumer Law Center — Consumer fee protection resources
+- Pew Charitable Trusts â€” Fee transparency research
+- National Consumer Law Center â€” Consumer fee protection resources
 
 ### Regulatory Information
-- Truth in Lending Act — Credit fee disclosure requirements
-- FTC Act — Prohibition on unfair or deceptive practices
-- State consumer protection laws — Fee disclosure requirements by jurisdiction
+- Truth in Lending Act â€” Credit fee disclosure requirements
+- FTC Act â€” Prohibition on unfair or deceptive practices
+- State consumer protection laws â€” Fee disclosure requirements by jurisdiction
 
 ## Summary
 Hidden fees remain a pervasive issue across every major consumer industry in 2026, costing households $2,000-5,000 annually. Telecom surcharges, banking fees, insurance policy charges, subscription escalation, and automotive dealer fees represent the highest-impact categories. Understanding where fees commonly appear, reviewing documents carefully, comparing total costs including fees, and using AI-powered analysis tools help consumers identify and reduce their hidden fee exposure.

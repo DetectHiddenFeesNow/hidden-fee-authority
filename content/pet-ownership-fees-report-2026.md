@@ -1,5 +1,6 @@
 # The Hidden Pet Ownership Fees Report 2026
 desc: A comprehensive analysis of hidden fees in pet ownership including veterinary markups, pet insurance exclusions, food subscription traps, boarding surcharges, and strategies for managing the true cost of pet care.
+category: default
 
 ## Executive Summary
 Pet ownership costs extend far beyond adoption fees and basic supplies. Veterinary markups on medications, pet insurance policy exclusions, food subscription auto-shipments, boarding facility surcharges, and hidden fees in pet services can add hundreds to thousands annually to pet care costs. Many pet owners are unaware of these costs until they appear on bills or invoices. This report examines hidden fee structures across veterinary care, pet insurance, food and supply subscriptions, boarding, grooming, and training services.
@@ -67,7 +68,7 @@ A pet owner subscribes to auto-delivery for dog food at $48/month. The same food
 | Final Cost Impact | $4,250/year (77% over budget) |
 | Consumer Lesson | Pet ownership costs are significantly higher than initial estimates due to markup and fee structures |
 
-**Scenario:** A first-time dog owner budgeted $50/month for routine care, $30/month for food, and $40/month for pet insurance — a total of $1,440 per year.
+**Scenario:** A first-time dog owner budgeted $50/month for routine care, $30/month for food, and $40/month for pet insurance â€” a total of $1,440 per year.
 
 **What Happened:** The owner's actual costs included $350 in vet medication markups, $280 in pet insurance premium increases, $180 in food subscription markups, $320 in boarding surcharges for a week-long trip, $220 in grooming add-ons, and $500 in emergency vet fees for a minor injury. Total over budget: $1,850.
 
@@ -148,20 +149,20 @@ faq:
 ## References
 
 ### Government Sources
-- Federal Trade Commission (FTC) — Pet industry pricing practices and consumer protection
-- State veterinary medical boards — Fee disclosure requirements and consumer complaint processes
+- Federal Trade Commission (FTC) â€” Pet industry pricing practices and consumer protection
+- State veterinary medical boards â€” Fee disclosure requirements and consumer complaint processes
 
 ### Consumer Protection Sources
-- American Veterinary Medical Association — Fee disclosure guidelines and pet owner resources
-- Better Business Bureau — Pet business complaint data and accreditation
+- American Veterinary Medical Association â€” Fee disclosure guidelines and pet owner resources
+- Better Business Bureau â€” Pet business complaint data and accreditation
 
 ### Industry Resources
-- American Pet Products Association — Pet industry pricing data and consumer spending reports
-- Pet Insurance Review — Pet insurance policy comparison and premium data
+- American Pet Products Association â€” Pet industry pricing data and consumer spending reports
+- Pet Insurance Review â€” Pet insurance policy comparison and premium data
 
 ### Regulatory Information
-- State veterinary practice acts — Fee disclosure requirements for veterinary services
-- FTC Negative Option Rule — Subscription auto-shipment regulation
+- State veterinary practice acts â€” Fee disclosure requirements for veterinary services
+- FTC Negative Option Rule â€” Subscription auto-shipment regulation
 
 ## Summary
 Hidden pet ownership fees can add $500-2,000 annually to the cost of caring for a pet. Veterinary medication markups, pet insurance premium escalation, food subscription price inflation, and boarding surcharges represent the highest-impact categories. Requesting itemized veterinary invoices, comparing medication prices online, avoiding auto-shipment subscriptions, and reviewing insurance renewals carefully help pet owners reduce their pet care cost exposure.

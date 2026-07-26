@@ -1,5 +1,6 @@
 # The Hidden Moving Company Fees Report 2026
 desc: A comprehensive analysis of hidden fees in moving services including fuel surcharges, stair fees, long-carry charges, packing markups, and strategies for avoiding unexpected moving costs.
+category: default
 
 ## Executive Summary
 Moving costs can quickly balloon beyond initial estimates due to a web of surcharges and add-on fees. Fuel surcharges, stair fees, long-carry charges, packing material markups, elevator fees, shuttle charges, and peak-season premiums can add 30-80 percent to quoted moving prices. Many of these fees are disclosed in fine print or added on moving day when consumers have no leverage to negotiate. This report examines hidden fee structures across full-service movers, rental trucks, and portable storage container companies.
@@ -39,7 +40,7 @@ A $40/day truck rental can cost $200-400 for a one-day local move after mileage,
 Compare the total cost including estimated mileage before reserving. Purchase moving supplies separately. Decline unnecessary insurance if covered by your auto policy.
 
 #### Example
-A consumer rents a truck for $39.95/day plus $0.99/mile. A 30-mile move costs $39.95 + $29.70 in mileage, plus $25 for a dolly, $20 for furniture pads, and $15 for a furniture blanket. Total: $129.65 — not $39.95.
+A consumer rents a truck for $39.95/day plus $0.99/mile. A 30-mile move costs $39.95 + $29.70 in mileage, plus $25 for a dolly, $20 for furniture pads, and $15 for a furniture blanket. Total: $129.65 â€” not $39.95.
 
 ## Portable Storage Container Fees
 
@@ -56,7 +57,7 @@ A $150/month container can cost $400-600 for a 2-month rental after delivery, pi
 Ask about ALL fees including delivery, pickup, and permit requirements. Compare total project cost, not just the monthly rental rate.
 
 #### Example
-A consumer rents a portable storage container at $149/month for a cross-country move. Delivery is $89, pickup is $89, the city permit is $45, and the damage waiver is $25/month. Total for 2 months: $669 — not $298.
+A consumer rents a portable storage container at $149/month for a cross-country move. Delivery is $89, pickup is $89, the city permit is $45, and the damage waiver is $25/month. Total for 2 months: $669 â€” not $298.
 
 ## Real-World Example
 
@@ -113,7 +114,7 @@ AI analysis processes multiple moving quotes in seconds, identifies which fees a
 ## Prevention Strategies
 
 ### Before Booking
-1. Get at least three in-person estimates — never rely on phone-only quotes
+1. Get at least three in-person estimates â€” never rely on phone-only quotes
 2. Request a binding not-to-exceed estimate that guarantees the final price
 3. Ask specifically about fuel surcharges, stair fees, long-carry fees, and packing materials
 4. Verify whether the estimate includes packing materials or if they are extra
@@ -148,21 +149,21 @@ faq:
 ## References
 
 ### Government Sources
-- Department of Transportation (DOT) — Interstate moving regulations and consumer complaint process
-- Federal Motor Carrier Safety Administration (FMCSA) — Moving company registration and consumer rights
+- Department of Transportation (DOT) â€” Interstate moving regulations and consumer complaint process
+- Federal Motor Carrier Safety Administration (FMCSA) â€” Moving company registration and consumer rights
 
 ### Consumer Protection Sources
-- Better Business Bureau — Moving company complaint data and accreditation
-- American Moving and Storage Association — Industry standards and consumer education resources
+- Better Business Bureau â€” Moving company complaint data and accreditation
+- American Moving and Storage Association â€” Industry standards and consumer education resources
 
 ### Industry Resources
-- Moving.org — Moving company pricing data and consumer comparison tools
-- Move.org — Moving cost surveys and fee transparency research
+- Moving.org â€” Moving company pricing data and consumer comparison tools
+- Move.org â€” Moving cost surveys and fee transparency research
 
 ### Regulatory Information
-- 49 CFR Part 375 — Household goods transportation regulations
-- FMCSA consumer protection rules — Binding estimate and arbitration requirements
-- State moving regulations — Local mover licensing and fee disclosure requirements
+- 49 CFR Part 375 â€” Household goods transportation regulations
+- FMCSA consumer protection rules â€” Binding estimate and arbitration requirements
+- State moving regulations â€” Local mover licensing and fee disclosure requirements
 
 ## Summary
 Hidden moving fees can add 30-80 percent to the cost of a move beyond initial estimates. Fuel surcharges, stair fees, long-carry charges, and packing material markups represent the highest-impact categories. Getting a binding not-to-exceed estimate, asking about all potential surcharges before booking, getting in-person quotes from multiple movers, and reading the contract carefully help consumers reduce their moving cost exposure.

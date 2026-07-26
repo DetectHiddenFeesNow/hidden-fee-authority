@@ -1,5 +1,6 @@
 # The Hidden Contractor Fees Report 2026
 desc: A comprehensive analysis of hidden fees in home service contracts including service call fees, material markups, change order fees, permit charges, and consumer strategies for avoiding unexpected contractor costs across HVAC, plumbing, electrical, roofing, and general contracting services.
+category: default
 
 ## Executive Summary
 Home service contractors for HVAC, plumbing, electrical, roofing, and general contracting often add fees that are not included in initial estimates. Service call fees, trip charges, material markups, change order fees, permit charges, and emergency surcharges can add 20-50 percent to quoted prices. These fees are disclosed in fine print or added during the project when consumers have already committed to the contractor. This report examines hidden fee structures across common home service categories and provides strategies for identifying and negotiating contractor fees.
@@ -32,7 +33,7 @@ A homeowner calls an HVAC company for a no-cooling issue in July. The service ca
 Trip fees of $50-100, after-hours surcharges of 50-100 percent, parts markup of 40-150 percent, permit fees of $50-200, and minimum service charges of $100-200.
 
 #### How Fees Appear
-Trip fees are disclosed in the service agreement but not mentioned during the phone call. Parts markup is not itemized — the plumber's invoice shows only the total parts cost without the wholesale price.
+Trip fees are disclosed in the service agreement but not mentioned during the phone call. Parts markup is not itemized â€” the plumber's invoice shows only the total parts cost without the wholesale price.
 
 #### Consumer Impact
 A $200 toilet repair can cost $450 after trip fee, parts markup, and minimum service charges.
@@ -169,20 +170,20 @@ faq:
 ## References
 
 ### Government Sources
-- Federal Trade Commission (FTC) — Home repair and improvement consumer guides
-- State contractor licensing boards — Licensing requirements and consumer complaint processes
+- Federal Trade Commission (FTC) â€” Home repair and improvement consumer guides
+- State contractor licensing boards â€” Licensing requirements and consumer complaint processes
 
 ### Consumer Protection Sources
-- Better Business Bureau — Contractor complaint data and accreditation information
-- Angi (formerly Angie's List) — Contractor pricing data and consumer reviews
+- Better Business Bureau â€” Contractor complaint data and accreditation information
+- Angi (formerly Angie's List) â€” Contractor pricing data and consumer reviews
 
 ### Industry Resources
-- National Association of Home Builders — Industry fee standards and best practices
-- HomeAdvisor — True Cost Guide for home service pricing
+- National Association of Home Builders â€” Industry fee standards and best practices
+- HomeAdvisor â€” True Cost Guide for home service pricing
 
 ### Regulatory Information
-- State mechanic's lien laws — Contractor rights and consumer protections
-- Home improvement contractor laws — Written estimate and disclosure requirements by state
+- State mechanic's lien laws â€” Contractor rights and consumer protections
+- Home improvement contractor laws â€” Written estimate and disclosure requirements by state
 
 ## Summary
 Contractor fees add significant costs to home service projects across all trades including HVAC, plumbing, electrical, and general contracting. Service call fees, material markups, change order charges, and emergency surcharges represent common fee structures that can add 20-50 percent to initial estimates. Getting complete written estimates, asking about excluded fees, comparing multiple contractor quotes, and getting all change orders in writing help consumers reduce contractor fee exposure.

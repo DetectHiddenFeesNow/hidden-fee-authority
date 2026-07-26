@@ -1,5 +1,6 @@
 # The Hidden Healthcare Costs Report 2026
 desc: A comprehensive report examining hidden fees in medical billing including facility fees, CPT unbundling, surprise billing, anesthesia charges, and consumer strategies for reducing unexpected healthcare costs.
+category: medical
 
 ## Executive Summary
 Hidden fees in medical billing can add thousands to healthcare costs. Facility charges, unbundled codes, surprise out-of-network billing, administrative fees, and supply markups are common across hospitals, clinics, and specialist practices. This report examines these costs across hospital systems, physician practices, anesthesia services, and emergency care, providing consumer protection strategies for reviewing medical bills and disputing improper charges.
@@ -109,7 +110,7 @@ A patient schedules gallbladder surgery at an in-network hospital. The anesthesi
 
 **Resolution:** Maria used the No Surprises Act to dispute the anesthesia balance billing. The anesthesia group reduced the bill to $550. She requested an itemized bill from the hospital and identified a $200 duplicate charge for "surgical supplies" that should have been included in the procedure code.
 
-**Key Takeaway:** Always ask which providers — not just the facility and surgeon — will be involved in your care and verify their network status.
+**Key Takeaway:** Always ask which providers â€” not just the facility and surgeon â€” will be involved in your care and verify their network status.
 
 ## Fee Impact Table
 
@@ -188,21 +189,21 @@ faq:
 ## References
 
 ### Government Sources
-- Centers for Medicare & Medicaid Services (CMS) — Hospital pricing transparency data and consumer resources
-- Federal No Surprises Act — Emergency services and scheduled procedure protections
+- Centers for Medicare & Medicaid Services (CMS) â€” Hospital pricing transparency data and consumer resources
+- Federal No Surprises Act â€” Emergency services and scheduled procedure protections
 
 ### Consumer Protection Sources
-- Patient Advocate Foundation — Medical bill advocacy and consumer education
-- KFF (Kaiser Family Foundation) — Healthcare cost research and policy analysis
+- Patient Advocate Foundation â€” Medical bill advocacy and consumer education
+- KFF (Kaiser Family Foundation) â€” Healthcare cost research and policy analysis
 
 ### Industry Resources
-- Healthcare Financial Management Association — Billing standards and best practices
-- FAIR Health — Healthcare pricing database and cost estimator tools
+- Healthcare Financial Management Association â€” Billing standards and best practices
+- FAIR Health â€” Healthcare pricing database and cost estimator tools
 
 ### Regulatory Information
-- No Surprises Act (2022) — Balance billing protections for emergency and scheduled care
-- Hospital Price Transparency Rule — Required disclosure of standard charges
-- State surprise billing laws — Additional protections in states with their own laws
+- No Surprises Act (2022) â€” Balance billing protections for emergency and scheduled care
+- Hospital Price Transparency Rule â€” Required disclosure of standard charges
+- State surprise billing laws â€” Additional protections in states with their own laws
 
 ## Summary
 Hidden healthcare fees burden patients across all care types. Facility fees, CPT unbundling, out-of-network provider charges, and supply markups can increase medical costs by 200-1,000 percent beyond initial estimates. Requesting itemized bills, verifying provider network status, comparing charges against EOB statements, and using AI analysis to identify improper charges help consumers reduce their healthcare cost exposure.

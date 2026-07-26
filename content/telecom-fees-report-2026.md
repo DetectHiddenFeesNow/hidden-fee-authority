@@ -1,5 +1,6 @@
 # The Hidden Telecom Fees Report 2026
 desc: A comprehensive analysis of hidden fees in telecommunications services including administrative charges, regulatory recovery fees, equipment rental costs, early termination penalties, and consumer strategies for reducing monthly telecom expenses.
+category: telecom
 
 ## Executive Summary
 Telecom bills contain the highest density of surcharges of any consumer document. Administrative fees, regulatory recovery charges, universal service fund contributions, equipment rental fees, and early termination penalties can add 20-50 percent to advertised service prices. These fees are often buried in fine print or grouped into vaguely labeled line items that consumers cannot easily verify. This report examines hidden fee structures across internet, cable TV, mobile phone, and bundled telecom services.
@@ -153,21 +154,21 @@ faq:
 ## References
 
 ### Government Sources
-- Federal Communications Commission (FCC) — Truth-in-billing rules and consumer complaint process
-- Universal Service Administrative Company — Universal service fund fee explanations
+- Federal Communications Commission (FCC) â€” Truth-in-billing rules and consumer complaint process
+- Universal Service Administrative Company â€” Universal service fund fee explanations
 
 ### Consumer Protection Sources
-- Consumer Reports — Telecom pricing and fee transparency research
-- Electronic Frontier Foundation — Telecom privacy and billing advocacy
+- Consumer Reports â€” Telecom pricing and fee transparency research
+- Electronic Frontier Foundation â€” Telecom privacy and billing advocacy
 
 ### Industry Resources
-- NCTA (Internet & Television Association) — Industry fee disclosure practices
-- US Telecom Association — Broadband industry fee standards
+- NCTA (Internet & Television Association) â€” Industry fee disclosure practices
+- US Telecom Association â€” Broadband industry fee standards
 
 ### Regulatory Information
-- FCC Truth-in-Billing Rules — 47 CFR Part 64 — Billing disclosure requirements
-- Telecommunications Act of 1996 — Universal service and regulatory fee framework
-- State public utility commissions — State-level telecom fee regulation
+- FCC Truth-in-Billing Rules â€” 47 CFR Part 64 â€” Billing disclosure requirements
+- Telecommunications Act of 1996 â€” Universal service and regulatory fee framework
+- State public utility commissions â€” State-level telecom fee regulation
 
 ## Summary
 Telecom bills contain the highest density of hidden fees of any consumer document. Administrative charges, regulatory fees, equipment rental, and programming surcharges can add 20-50 percent to advertised prices, costing households $300-800 annually. Purchasing your own equipment, choosing streaming alternatives, and reviewing each monthly bill carefully help consumers reduce telecom fee exposure.

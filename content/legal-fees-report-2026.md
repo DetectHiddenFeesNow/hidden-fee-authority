@@ -1,5 +1,6 @@
 # The Hidden Legal Fees Report 2026
 desc: A comprehensive analysis of hidden fees in legal services including retainer fees, consultation charges, administrative costs, filing fees, and consumer strategies for avoiding unexpected legal expenses.
+category: default
 
 ## Executive Summary
 Legal fees can be among the most opaque of all professional service costs. Retainer agreements, hourly rates, consultation charges, administrative fees, filing costs, and expense markups can significantly increase the cost of legal representation beyond initial estimates. Many consumers are unaware of common fee structures in legal billing until they receive their first invoice. This report examines legal fee structures across practice areas and provides consumer protection strategies.
@@ -153,21 +154,21 @@ faq:
 ## References
 
 ### Government Sources
-- American Bar Association — Model rules of professional conduct on fee arrangements
-- State bar associations — Fee arbitration programs and attorney discipline
+- American Bar Association â€” Model rules of professional conduct on fee arrangements
+- State bar associations â€” Fee arbitration programs and attorney discipline
 
 ### Consumer Protection Sources
-- Legal Services Corporation — Consumer legal fee resources
-- Nolo Press — Legal fee guides and consumer education
+- Legal Services Corporation â€” Consumer legal fee resources
+- Nolo Press â€” Legal fee guides and consumer education
 
 ### Industry Resources
-- Martindale-Hubbell — Attorney fee survey data
-- State bar fee surveys — Average hourly rates by practice area
+- Martindale-Hubbell â€” Attorney fee survey data
+- State bar fee surveys â€” Average hourly rates by practice area
 
 ### Regulatory Information
-- ABA Model Rule 1.5 — Fee reasonableness requirements
-- State bar ethical rules — Fee disclosure and billing requirements
-- Fee arbitration statutes — State laws governing fee dispute resolution
+- ABA Model Rule 1.5 â€” Fee reasonableness requirements
+- State bar ethical rules â€” Fee disclosure and billing requirements
+- Fee arbitration statutes â€” State laws governing fee dispute resolution
 
 ## Summary
 Legal fees can increase significantly beyond quoted rates due to administrative charges, expense markups, and minimum billing increments. Reviewing engagement letters carefully, asking about expense policies, requesting paperless billing, and using fee arbitration to resolve disputes help consumers manage legal costs.

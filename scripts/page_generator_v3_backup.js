@@ -1,5 +1,5 @@
 /*
- * Page Generator v3.0.0 â€” Research-Grade Authority Report Generator
+ * Page Generator v3.0.0 — Research-Grade Authority Report Generator
  * 
  * Supports: Expanded Industry Analysis, Real-World Case Studies, 
  * Fee Impact Tables, Warning Signs, Methodology/References, 
@@ -41,7 +41,6 @@ var desc = "";
 var body = [];
 var faqItems = [];
 var state = "header";
-var catMeta = "";
 
 lines.forEach(function(line) {
   var t = line.trim();
@@ -52,10 +51,6 @@ lines.forEach(function(line) {
   }
   if (state === "header" && t.startsWith("desc:")) {
     desc = t.slice(5).trim();
-    return;
-  }
-  if (state === "header" && t.startsWith("category:")) {
-    catMeta = t.slice(9).trim().toLowerCase();
     return;
   }
   if (t === "faq:") {
@@ -212,48 +207,9 @@ function buildTable(rows) {
   return h;
 }
 
-
-// --- 3-CTA SYSTEM ---
-var catMeta = catMeta || "default";
-var cm; try { cm = JSON.parse(fs.readFileSync("C:/vhub/scripts/cta_map.json", "utf8")); } catch(e) { cm = { default: { paragraph: "Upload.", button: "Analyze", url: "https://detecthiddenfees.com" } }; }
-var C = cm[catMeta] || cm.default;
-function mK(h) { return '<div class="cta"><h2>' + h + '</h2><p>' + C.paragraph + '</p><a href="' + C.url + '" class="btn">' + C.button + '</a><div class="trust"><span>Private analysis</span><span>No data stored</span><span>Secure upload</span></div></div>'; }
-var tC = mK("Find Hidden Fees Before They Cost You Money");
-var mC = mK("Ready To Find Hidden Charges?");
-var bC = mK("Protect Yourself From Hidden Costs");
-
 var bodyHtml = renderBody(body);
 
 // --- Warnings ---
-
-// TOP CTA after first H2 (usually Executive Summary)
-var ei = bodyHtml.indexOf("<h2>Executive Summary</h2>");
-if (ei >= 0) {
-  var nh = bodyHtml.indexOf("<h2>", ei + 30);
-  if (nh < 0) nh = ei + 200;
-  bodyHtml = bodyHtml.slice(0, nh) + "\n" + tC + "\n" + bodyHtml.slice(nh);
-}
-// MIDDLE CTA after AI Detection (or after second section if no AI section)
-var aiP = ["<h2>How AI Detects", "<h2>How AI Reviews", "<h2>How AI Analyzes", "<h2>AI Detection", "<h2>AI Methodology"];
-var ai = -1;
-for (var p = 0; p < aiP.length; p++) { ai = bodyHtml.indexOf(aiP[p]); if (ai >= 0) break; }
-if (ai >= 0) {
-  var na = bodyHtml.indexOf("<h2>", ai + 50);
-  if (na < 0) na = ai + 200;
-  bodyHtml = bodyHtml.slice(0, na) + "\n" + mC + "\n" + bodyHtml.slice(na);
-} else {
-  // Fallback: place MID CTA after the second H2 section
-  var h2c = 0, h2i = -1;
-  for (var i = 0; i < bodyHtml.length; i++) {
-    if (bodyHtml.slice(i, i+4) === "<h2>") { h2c++; if (h2c === 2) { h2i = i; break; } }
-  }
-  if (h2i >= 0) {
-    var nxt = bodyHtml.indexOf("<h2>", h2i + 4);
-    if (nxt < 0) nxt = h2i + 200;
-    bodyHtml = bodyHtml.slice(0, nxt) + "\n" + mC + "\n" + bodyHtml.slice(nxt);
-  }
-}
-
 var warns = [];
 if (!hasRealWorld)     warns.push("Missing: Real-World Example section");
 if (!hasFeeTable)      warns.push("Missing: Fee Impact Table");
@@ -374,9 +330,4 @@ if (html.indexOf("datePublished") < 0) console.log("ERROR: No datePublished");
 
 warns.forEach(function(w) { console.log("WARNING: " + w); });
 
-var cc = (html.match(/class="cta"/g) || []).length;
-console.log("CTAs: " + cc + " (TOP/MIDDLE/BOTTOM)");
-console.log("Category: " + catMeta);
-console.log("Button: " + C.button);
-if (cc < 3) console.log("ERROR: Missing CTAs");
 console.log("=== OUTPUT WRITTEN ===");

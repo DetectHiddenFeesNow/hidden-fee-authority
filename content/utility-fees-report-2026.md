@@ -1,5 +1,6 @@
 # The Hidden Utility Fees Report 2026
 desc: A report examining hidden fees in utility billing.
+category: utilities
 ## Executive Summary
 Utility bills contain fees beyond usage charges including distribution fees, transmission surcharges, and regulatory compliance costs.
 faq:

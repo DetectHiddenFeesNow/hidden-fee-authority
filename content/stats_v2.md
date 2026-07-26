@@ -1,5 +1,9 @@
+## Executive Summary
+This report analyzes hidden fees and unexpected charges. AI-powered document analysis can identify these charges automatically by scanning statements and contracts.
+
 # Hidden Fee Statistics 2026: Full Industry Analysis
 desc: A comprehensive analysis of hidden fees across telecom, banking, insurance, travel, auto, subscription, healthcare, and education industries with data tables and consumer impact research.
+category: default
 ## Industry Comparison Table
 The table below summarizes the typical hidden fees consumers encounter across major U.S. industries. Figures represent common fee ranges observed in consumer billing documents.
 | Industry | Common Fees | Typical Annual Impact | Number of Fees |

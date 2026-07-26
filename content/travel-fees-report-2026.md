@@ -1,5 +1,6 @@
 # The Hidden Travel Fees Report 2026
 desc: A comprehensive analysis of hidden fees in the travel industry including resort fees, airline ancillary charges, hotel amenity fees, rental car surcharges, and strategies for avoiding unexpected travel costs.
+category: default
 
 ## Executive Summary
 Travel pricing has become increasingly complex with mandatory fees added at every stage of the booking and travel experience. Resort fees, airline baggage charges, seat selection fees, hotel amenity surcharges, rental car facility fees, and travel insurance exclusions can add 30-60 percent to advertised travel prices. These fees are disclosed after initial booking or at check-in when consumers are least likely to push back. This report examines hidden fee structures across airlines, hotels, rental cars, and travel booking platforms.
@@ -73,7 +74,7 @@ A consumer rents a car for 7 days at $42/day. The final cost includes $18/day fa
 
 **What Happened:** The airline charged $60/bag each way ($240), $30/person seat selection ($120), and a $50 booking fee. The hotel charged a $55/night resort fee ($385 for 7 nights). The airport shuttle charged a $20 "convenience fee." Total hidden fees: $685.
 
-**Resolution:** The couple used an AI fee analyzer before their next trip. They booked a resort that includes all fees in the nightly rate and used a credit card with free checked bags. Their next trip cost $1,450 total — $435 less.
+**Resolution:** The couple used an AI fee analyzer before their next trip. They booked a resort that includes all fees in the nightly rate and used a credit card with free checked bags. Their next trip cost $1,450 total â€” $435 less.
 
 **Key Takeaway:** Always ask for the "total price including all mandatory fees" before booking any travel component.
 
@@ -151,21 +152,21 @@ faq:
 ## References
 
 ### Government Sources
-- Federal Trade Commission (FTC) — Resort fee and drip pricing investigations
-- Department of Transportation (DOT) — Airline fee disclosure requirements
+- Federal Trade Commission (FTC) â€” Resort fee and drip pricing investigations
+- Department of Transportation (DOT) â€” Airline fee disclosure requirements
 
 ### Consumer Protection Sources
-- Consumer Reports — Travel pricing transparency research
-- Travelers United — Resort fee advocacy and consumer resources
+- Consumer Reports â€” Travel pricing transparency research
+- Travelers United â€” Resort fee advocacy and consumer resources
 
 ### Industry Resources
-- American Hotel & Lodging Association — Industry fee disclosure practices
-- Airlines for America — Airline ancillary fee reporting
+- American Hotel & Lodging Association â€” Industry fee disclosure practices
+- Airlines for America â€” Airline ancillary fee reporting
 
 ### Regulatory Information
-- DOT rule on airline fee transparency — Ancillary fee disclosure requirements
-- FTC guidelines on drip pricing — Advertising and disclosure requirements
-- State consumer protection laws — Fee disclosure requirements by state
+- DOT rule on airline fee transparency â€” Ancillary fee disclosure requirements
+- FTC guidelines on drip pricing â€” Advertising and disclosure requirements
+- State consumer protection laws â€” Fee disclosure requirements by state
 
 ## Summary
 Travel fees can dramatically increase vacation costs beyond advertised prices. Resort fees, airline baggage charges, seat selection, and rental car surcharges add 30-60 percent to initial prices. Booking with fee-inclusive travel sites, using airline credit cards with baggage benefits, and carefully reviewing all fee disclosures before confirming reservations help consumers reduce travel cost exposure.

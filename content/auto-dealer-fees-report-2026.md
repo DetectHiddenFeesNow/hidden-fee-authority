@@ -1,5 +1,6 @@
 # The Hidden Auto Dealer Fees Report 2026
 desc: A comprehensive analysis of hidden fees in auto dealership transactions including documentation fees, dealer preparation charges, VIN etching, extended warranty markups, and consumer strategies for avoiding unnecessary dealer charges.
+category: automotive
 
 ## Executive Summary
 Auto dealerships add substantial fees to vehicle purchases that are not included in advertised prices or MSRP. Documentation fees, dealer preparation charges, VIN etching, extended warranty markups, gap insurance commissions, and financing fees can add $1,000-5,000 to the cost of a new or used vehicle. These fees are often presented as mandatory or standard when many are negotiable or optional. This report examines common dealer fee structures and provides strategies for identifying and negotiating fees before completing a vehicle purchase.
@@ -152,21 +153,21 @@ faq:
 ## References
 
 ### Government Sources
-- Federal Trade Commission (FTC) — Vehicle purchasing guidelines and consumer protection resources
-- State attorneys general offices — Dealer fee regulations and consumer complaint data
+- Federal Trade Commission (FTC) â€” Vehicle purchasing guidelines and consumer protection resources
+- State attorneys general offices â€” Dealer fee regulations and consumer complaint data
 
 ### Consumer Protection Sources
-- Consumer Reports — Vehicle pricing and dealer fee research
-- Better Business Bureau — Dealer complaint data and fee transparency reports
+- Consumer Reports â€” Vehicle pricing and dealer fee research
+- Better Business Bureau â€” Dealer complaint data and fee transparency reports
 
 ### Industry Resources
-- National Automobile Dealers Association — Industry fee standards and disclosure practices
-- Edmunds — Vehicle pricing data and dealer fee analysis
+- National Automobile Dealers Association â€” Industry fee standards and disclosure practices
+- Edmunds â€” Vehicle pricing data and dealer fee analysis
 
 ### Regulatory Information
-- Truth in Lending Act — Financing disclosure requirements
-- State motor vehicle laws — Dealer licensing and fee regulations
-- FTC Holder Rule — Consumer rights in dealer-arranged financing
+- Truth in Lending Act â€” Financing disclosure requirements
+- State motor vehicle laws â€” Dealer licensing and fee regulations
+- FTC Holder Rule â€” Consumer rights in dealer-arranged financing
 
 ## Summary
 Dealer fees add significant costs to vehicle purchases across all price ranges. Documentation fees, preparation charges, extended warranty markups, and add-on products represent common fee structures that can add $1,000-5,000 to the purchase price. Researching fees before visiting dealerships, getting out-the-door quotes from multiple dealers, reviewing purchase agreements carefully, negotiating each fee line item, and arranging independent financing help consumers reduce dealer fee exposure.

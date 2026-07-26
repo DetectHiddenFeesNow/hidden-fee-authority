@@ -1,5 +1,6 @@
 # Consumer Fee Protection Guide 2026
 desc: A comprehensive guide to protecting yourself from hidden fees across all major industries.
+category: default
 ## Executive Summary
 Hidden fees remain a persistent burden for consumers across all major industries. This guide provides practical strategies for identification, dispute, and prevention.
 ## Telecom Fee Protection

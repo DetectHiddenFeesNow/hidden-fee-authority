@@ -1,5 +1,6 @@
 # The Hidden Rental Fees Report 2026
 desc: A comprehensive analysis of hidden fees in rental housing including application fees, administrative charges, amenity surcharges, parking fees, pet deposits, and consumer strategies for avoiding unexpected rental costs across apartment communities, property management companies, and short-term rentals.
+category: real-estate
 
 ## Executive Summary
 Rental housing costs extend far beyond the advertised monthly rent. Application fees, administrative charges, amenity fees, parking surcharges, pet deposits, move-in and move-out fees, and utility surcharges can add hundreds of dollars monthly to housing costs. These fees are often disclosed in lease agreements that tenants are given limited time to review. This report examines hidden fee structures across apartment communities, property management companies, and short-term rental platforms.
@@ -88,7 +89,7 @@ A tenant with two dogs pays $45/month pet rent per dog ($90/month), a $400 non-r
 
 **Scenario:** Marcus found an apartment advertised for $1,200/month in a large apartment community. He calculated the annual cost at $14,400 and budgeted accordingly.
 
-**What Happened:** The first month's charges included a $250 application fee ($125 for each co-applicant), $400 administrative fee, $50/month amenity fee, $75/month parking fee, $25/month pest control fee, and $15/month trash fee. Monthly fees: $165. One-time fees: $650. First year true cost: $16,730 — not $14,400.
+**What Happened:** The first month's charges included a $250 application fee ($125 for each co-applicant), $400 administrative fee, $50/month amenity fee, $75/month parking fee, $25/month pest control fee, and $15/month trash fee. Monthly fees: $165. One-time fees: $650. First year true cost: $16,730 â€” not $14,400.
 
 **Resolution:** Marcus negotiated the administrative fee down to $200 and chose a unit with street parking to avoid the parking fee. His true first-year cost dropped to $15,890.
 
@@ -137,7 +138,7 @@ AI analysis identifies fees buried in dense lease language and calculates the to
 ### Before Signing
 1. Ask for a complete written list of all monthly and one-time fees
 2. Calculate the true monthly cost including all mandatory fees
-3. Negotiate administrative fees — many can be reduced or waived
+3. Negotiate administrative fees â€” many can be reduced or waived
 4. Ask about utilities included in the rent
 5. Compare total costs across properties, not just base rent
 
@@ -170,20 +171,20 @@ faq:
 ## References
 
 ### Government Sources
-- Department of Housing and Urban Development (HUD) — Tenant rights and fee disclosure guidelines
-- State housing authorities — Landlord-tenant laws and fee regulation
+- Department of Housing and Urban Development (HUD) â€” Tenant rights and fee disclosure guidelines
+- State housing authorities â€” Landlord-tenant laws and fee regulation
 
 ### Consumer Protection Sources
-- National Low Income Housing Coalition — Rental fee research and advocacy
-- Tenant advocacy organizations — State-specific tenant rights resources
+- National Low Income Housing Coalition â€” Rental fee research and advocacy
+- Tenant advocacy organizations â€” State-specific tenant rights resources
 
 ### Industry Resources
-- National Apartment Association — Industry fee disclosure standards
-- Rent.com — Rental market data and fee comparison tools
+- National Apartment Association â€” Industry fee disclosure standards
+- Rent.com â€” Rental market data and fee comparison tools
 
 ### Regulatory Information
-- State landlord-tenant laws — Security deposit limits and fee disclosure requirements
-- Fair Housing Act — Anti-discrimination provisions in rental practices
+- State landlord-tenant laws â€” Security deposit limits and fee disclosure requirements
+- Fair Housing Act â€” Anti-discrimination provisions in rental practices
 
 ## Summary
 Rental fees can significantly increase housing costs beyond advertised rent. Application fees, administrative charges, amenity surcharges, and parking fees can add $150-350 per month to the cost of renting. Asking for a complete fee schedule, calculating the true monthly cost including all fees, negotiating administrative charges, and comparing total costs across properties help renters reduce their housing cost exposure.
