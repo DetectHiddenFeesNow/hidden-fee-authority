@@ -27,7 +27,7 @@
 }
 
 /* ── Hero ────────────────────────────────────── */
-.hero{position:relative;padding:calc(var(--header-h) + var(--s-20)) 0 var(--s-12);overflow:hidden}
+.hero{position:relative;padding:calc(var(--header-h) + var(--s-10)) 0 var(--s-12);overflow:hidden}
 .hero::before{content:'';position:absolute;top:0;right:0;width:800px;height:800px;background:radial-gradient(circle,rgba(59,130,246,.06) 0%,transparent 70%);pointer-events:none}
 .hero::after{content:'';position:absolute;bottom:0;left:20%;width:600px;height:600px;background:radial-gradient(circle,rgba(6,182,212,.04) 0%,transparent 70%);pointer-events:none}
 .hero-label{font-size:var(--text-xs);letter-spacing:3px;text-transform:uppercase;color:var(--primary-light);margin-bottom:var(--s-5);font-weight:500;position:relative}
@@ -38,7 +38,7 @@
 .hero-trust{display:flex;gap:var(--s-6);margin-top:var(--s-6);flex-wrap:wrap;position:relative}
 .hero-trust span{display:flex;align-items:center;gap:var(--s-2);font-size:var(--text-sm);color:var(--text-muted)}
 .hero-trust svg{width:14px;height:14px;color:var(--success);flex-shrink:0}
-@media(max-width:768px){.hero{padding:calc(var(--header-h) + var(--s-10)) 0 var(--s-8)}.hero h1{font-size:var(--text-3xl)}.hero p{font-size:var(--text-base)}}
+@media(max-width:768px){.hero{padding:calc(var(--header-h) + var(--s-4)) 0 var(--s-6)}.hero h1{font-size:var(--text-3xl)}.hero p{font-size:var(--text-base)}}
 
 /* ── Section Header ──────────────────────────── */
 .section-header{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:var(--s-8);flex-wrap:wrap;gap:var(--s-4)}
