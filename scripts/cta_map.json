@@ -1,0 +1,6 @@
+{
+  "banking": {"headline":"Find Hidden Bank Fees Before They Drain Your Money","desc":"Upload bank statements and let AI identify overdraft fees, ATM charges, maintenance fees, and unexpected banking costs.","btn":"Analyze My Bank Statement"},
+  "insurance": {"headline":"Find Hidden Insurance Fees Before They Increase Your Costs","desc":"Upload insurance documents and let AI identify hidden charges, add-ons, exclusions, and unnecessary fees.","btn":"Analyze My Insurance Policy"},
+  "telecom": {"headline":"Find Hidden Telecom Fees On Your Monthly Bill","desc":"Upload phone, internet, or cable bill and let AI detect equipment fees, rate increases, and hidden charges.","btn":"Analyze My Telecom Bill"},
+  "automotive": {"headline":"Find Hidden Car Fees Before You Sign","desc":"Upload vehicle agreement and let AI identify dealer fees, add-ons, financing charges, and unnecessary costs.","btn":"Analyze My Auto Contract"}
+}
