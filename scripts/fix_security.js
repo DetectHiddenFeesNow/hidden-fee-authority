@@ -1,0 +1,1 @@
+var f=require("fs"),c=f.readFileSync("C:/vhub/agent/agent.js","utf8");c=c.replace("if(!r.startsWith(ROOT))","var n=r.split(require(\"path\").sep).join(\"/\");if(!n.startsWith(ROOT))");f.writeFileSync("C:/vhub/agent/agent.js",c);console.log("Fixed");

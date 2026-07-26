@@ -8,7 +8,7 @@ function log(op,file,status,msg){
 }
 function sec(p){
  const r=path.resolve(ROOT,p);
- if(!r.startsWith(ROOT))throw new Error('Access denied');
+ var n=r.split(require("path").sep).join("/");if(!n.startsWith(ROOT))throw new Error('Access denied');
  return r;
 }
 function serve(req,res){
