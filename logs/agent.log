@@ -72,3 +72,5 @@
 2026-07-26T02:04:11.080Z | ok | /api/write-file | scripts/apply_cta.js | OK
 2026-07-26T02:05:35.632Z | ok | /api/write-file | index.md | OK
 2026-07-26T02:08:48.745Z | ok | /api/write-file | scripts/cta_move.js | OK
+2026-07-26T02:11:34.291Z | ok | /api/write-file | scripts/fix_authority_quality.js | OK
+2026-07-26T02:12:16.698Z | ok | /api/write-file | scripts/cta_heading_fix.js | OK
