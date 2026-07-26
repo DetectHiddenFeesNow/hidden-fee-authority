@@ -29,7 +29,7 @@ desc: 20 research reports on hidden fees across banking, insurance, telecom, and
 <a href="https://hidden-fee-authority.vercel.app/hidden-vehicle-warranty-fees/">Hidden Vehicle Warranty Fees</a><br>
 <a href="https://hidden-fee-authority.vercel.app/hidden-car-insurance-add-on-fees/">Hidden Car Insurance Add-On Fees</a>
 
-Upload bills and contracts at <a href="https://detecthiddenfees.com">DetectHiddenFees.com</a> for AI-powered fee detection.
+Ready to analyze your own documents? <a href="https://detecthiddenfees.com">Upload at DetectHiddenFees.com</a> for AI-powered hidden fee detection.
 
 faq:
 - How do I use this research library? Browse by category to find detailed analysis of specific fee types.
