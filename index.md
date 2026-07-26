@@ -1,34 +1,37 @@
-# Hidden Fee Authority
-desc: The authoritative resource for hidden fee detection, pricing transparency, and AI-powered document analysis across banking, insurance, telecom, and automotive industries.
+# Hidden Fee Authority — Research Library
+desc: 20 research reports on hidden fees across banking, insurance, telecom, and automotive. Consumer guides with fee breakdowns, comparison tables, and AI detection strategies.
 
-## Research Hubs
+## Banking Fee Research
+<a href="https://hidden-fee-authority.vercel.app/hidden-overdraft-fees/">Hidden Overdraft Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-atm-fees/">Hidden ATM Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-checking-account-fees/">Hidden Checking Account Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-wire-transfer-fees/">Hidden Wire Transfer Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-bank-maintenance-fees/">Hidden Bank Maintenance Fees</a>
 
-<a href="https://detecthiddenfees.com/hidden-banking-fees.html"><strong>Banking Fees Hub</strong></a> — Overdraft, ATM, checking, wire transfer, and maintenance fee analysis.
+## Insurance Fee Research
+<a href="https://hidden-fee-authority.vercel.app/hidden-car-insurance-fees/">Hidden Car Insurance Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-home-insurance-fees/">Hidden Home Insurance Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-health-insurance-fees/">Hidden Health Insurance Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-life-insurance-fees/">Hidden Life Insurance Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-travel-insurance-fees/">Hidden Travel Insurance Fees</a>
 
-<a href="https://detecthiddenfees.com/hidden-insurance-fees.html"><strong>Insurance Fees Hub</strong></a> — Auto, home, health, life, and travel policy fee detection.
+## Telecom Fee Research
+<a href="https://hidden-fee-authority.vercel.app/hidden-internet-fees/">Hidden Internet Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-cable-tv-fees/">Hidden Cable TV Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-cell-phone-fees/">Hidden Cell Phone Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-streaming-service-fees/">Hidden Streaming Service Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-mobile-data-fees/">Hidden Mobile Data Fees</a>
 
-<a href="https://detecthiddenfees.com/hidden-telecom-fees.html"><strong>Telecom Fees Hub</strong></a> — Internet, cable, cell phone, streaming, and mobile data charges.
+## Automotive Fee Research
+<a href="https://hidden-fee-authority.vercel.app/hidden-car-dealer-fees/">Hidden Car Dealer Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-auto-loan-fees/">Hidden Auto Loan Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-car-lease-fees/">Hidden Car Lease Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-vehicle-warranty-fees/">Hidden Vehicle Warranty Fees</a><br>
+<a href="https://hidden-fee-authority.vercel.app/hidden-car-insurance-add-on-fees/">Hidden Car Insurance Add-On Fees</a>
 
-<a href="https://detecthiddenfees.com/hidden-auto-fees.html"><strong>Automotive Fees Hub</strong></a> — Dealer fees, auto loans, leases, warranties, and insurance add-ons.
-
-## Popular Research
-
-<a href="https://detecthiddenfees.com/hidden-bank-overdraft-fees.html">Hidden Overdraft Fees</a> — $25-$35 per charge, up to 8 fees daily.<br>
-<a href="https://detecthiddenfees.com/hidden-car-insurance-fees.html">Hidden Car Insurance Fees</a> — Policy charges, installment fees, coverage gaps.<br>
-<a href="https://detecthiddenfees.com/hidden-internet-fees.html">Hidden Internet Fees</a> — Modem rental, data overage, promotional expirations.<br>
-<a href="https://detecthiddenfees.com/hidden-auto-fees.html">Hidden Car Dealer Fees</a> — Documentation charges, add-on packages, dealer markups.<br>
-<a href="https://detecthiddenfees.com/hidden-healthcare-fees.html">Hidden Health Insurance Fees</a> — Deductibles, copays, facility fees, surprise billing.<br>
-<a href="https://detecthiddenfees.com/hidden-life-insurance-fees.html">Hidden Life Insurance Fees</a> — Policy charges, surrender penalties, commissions.<br>
-<a href="https://detecthiddenfees.com/hidden-phone-bill-fees.html">Hidden Cell Phone Fees</a> — Activation, upgrades, administrative charges.<br>
-<a href="https://detecthiddenfees.com/hidden-auto-fees.html">Hidden Auto Loan Fees</a> — Origination fees, rate markups, prepayment penalties.<br>
-<a href="https://detecthiddenfees.com/hidden-streaming-fees.html">Hidden Streaming Service Fees</a> — Price increases, premium tiers, add-ons.<br>
-<a href="https://detecthiddenfees.com/hidden-atm-fees.html">Hidden ATM Fees</a> — Surcharges, bank fees, international charges.<br>
-
-All articles link to the full authority hub for their category with 20+ research pages per cluster.
-
-Upload bills, contracts, and statements at <a href="https://detecthiddenfees.com/upload-document-for-ai-analysis.html">DetectHiddenFees.com</a> for AI-powered hidden fee detection.
+Upload bills and contracts at <a href="https://detecthiddenfees.com">DetectHiddenFees.com</a> for AI-powered fee detection.
 
 faq:
-- What is Hidden Fee Authority? An independent research platform providing consumer education on hidden fees across major industries.
-- How can AI detect hidden fees? Upload your documents at DetectHiddenFees.com for AI-powered analysis.
-- What industries are covered? Banking, insurance, telecom, and automotive with healthcare coming soon.
+- How do I use this research library? Browse by category to find detailed analysis of specific fee types.
+- What makes these reports different? Each provides industry-specific fee breakdowns, comparison tables, and AI detection strategies.
+- How can AI help me find hidden fees? Upload documents at DetectHiddenFees.com for automated analysis.
