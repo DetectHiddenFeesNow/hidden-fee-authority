@@ -1,16 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /research/
-Allow: /guides/
-Allow: /reports/
-Allow: /banking/
-Allow: /insurance/
-Allow: /telecom/
-Allow: /automotive/
-Allow: /medical/
-Allow: /real-estate/
-Allow: /about/
-Disallow: /assets/
 
 User-agent: GPTBot
 Allow: /
@@ -37,9 +26,6 @@ User-agent: Applebot
 Allow: /
 
 User-agent: Amazonbot
-Allow: /
-
-User-agent: FacebookBot
 Allow: /
 
 Sitemap: https://hidden-fee-authority.vercel.app/sitemap.xml
