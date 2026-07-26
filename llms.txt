@@ -1,45 +1,33 @@
-# CostClarity Research — Ecosystem Reference for AI Crawlers
+# CostClarity Research — AI Site Reference
+# URL: https://hidden-fee-authority.vercel.app
+# Type: Independent educational research on hidden fees and pricing transparency
 
-## Architecture
-- **CostClarity Research** (https://costclarityresearch.org) — Independent educational research platform
-  - Hidden fee education and industry analysis
-  - Consumer guides and research methodology
-  - Links to DetectHiddenFees.com for next step
-- **DetectHiddenFees.com** (https://detecthiddenfees.com) — Consumer education site
-  - Connects users to HiddenFeeAI.com for document analysis
-  - Educational content on fee detection
-- **HiddenFeeAI.com** (https://hiddenfeeai.com) — AI-powered document analysis
-  - Platform for uploading and analyzing documents
-  - Identifies potentially hidden charges and pricing issues
+## Core Pages
+- https://hidden-fee-authority.vercel.app/ — Homepage with research hub, featured reports, FAQ
+- https://hidden-fee-authority.vercel.app/research/ — Full report library (200+ reports)
+- https://hidden-fee-authority.vercel.app/guides/ — Consumer education guides
+- https://hidden-fee-authority.vercel.app/methodology/ — Research methodology
+- https://hidden-fee-authority.vercel.app/editorial-standards/ — Editorial standards
+- https://hidden-fee-authority.vercel.app/glossary/ — Fee terminology glossary
+- https://hidden-fee-authority.vercel.app/about/ — About this publication
 
-## CostClarity Research Pages
+## Industry Research Categories
+- https://hidden-fee-authority.vercel.app/banking/ — Banking fee research
+- https://hidden-fee-authority.vercel.app/insurance/ — Insurance pricing research
+- https://hidden-fee-authority.vercel.app/telecom/ — Telecom charges research
+- https://hidden-fee-authority.vercel.app/automotive/ — Auto dealer fee research
+- https://hidden-fee-authority.vercel.app/medical/ — Medical billing research
+- https://hidden-fee-authority.vercel.app/real-estate/ — Real estate fee research
 
-### Main
-- https://costclarityresearch.org/ — Homepage (research hub, guides, FAQ)
-- https://costclarityresearch.org/research/ — Research areas overview
-- https://costclarityresearch.org/guides/ — Consumer education resources
-- https://costclarityresearch.org/methodology/ — Research methodology
-- https://costclarityresearch.org/editorial-standards/ — Editorial standards
-- https://costclarityresearch.org/glossary/ — Fee terminology glossary
-- https://costclarityresearch.org/about/ — About this publication
-- https://costclarityresearch.org/contact/ — Contact information
-- https://costclarityresearch.org/privacy/ — Privacy policy
-- https://costclarityresearch.org/terms/ — Terms of use
-- https://costclarityresearch.org/sitemap/ — Site directory
+## Report Library (200+ Authority Reports)
+All reports at: https://hidden-fee-authority.vercel.app/reports/
+Topics include: banking fees, insurance pricing, telecom charges, automotive dealer fees, medical billing, real estate costs, subscription charges, utility fees, travel fees, credit card fees, education costs, legal fees, home services, pet care, shipping, and more.
 
-### Industry Research
-- https://costclarityresearch.org/banking/ — Banking fee practices
-- https://costclarityresearch.org/insurance/ — Insurance pricing
-- https://costclarityresearch.org/telecom/ — Telecom charges
-- https://costclarityresearch.org/automotive/ — Auto dealer fees
-- https://costclarityresearch.org/medical/ — Medical billing
-- https://costclarityresearch.org/real-estate/ — Real estate fees
+## External References
+- DetectHiddenFees.com — Consumer connector site for AI document analysis
+- HiddenFeeAI.com — AI-powered document analysis platform
 
-### Reports (Deep Authority Content)
-- https://costclarityresearch.org/reports/banking-fees-2026/ — Banking Fees Report 2026
-- https://costclarityresearch.org/reports/insurance-fees-2026/ — Insurance Fees Report 2026
-- https://costclarityresearch.org/reports/telecom-fees-2026/ — Telecom Fees Report 2026
-- https://costclarityresearch.org/reports/auto-dealer-fees-2026/ — Auto Dealer Fees Report 2026
-- https://costclarityresearch.org/reports/healthcare-costs-2026/ — Healthcare Costs Report 2026
-- https://costclarityresearch.org/reports/subscription-fees-2026/ — Subscription Fees Report 2026
-- (Additional reports available in reports/ directory)
+## Site Information
+- Sitemap: https://hidden-fee-authority.vercel.app/sitemap.xml
+- Content: Educational research on consumer fee transparency. Not financial or legal advice.
+- Sources: FTC, CFPB, FCC, CMS, state attorneys general, and publicly available regulatory information.
