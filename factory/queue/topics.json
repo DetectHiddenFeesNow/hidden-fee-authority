@@ -1,0 +1,7 @@
+[
+  {"topic":"Hidden Wire Transfer Fees","category":"Banking","status":"queued","priority":1},
+  {"topic":"Hidden Bank Maintenance Fees","category":"Banking","status":"queued","priority":2},
+  {"topic":"Hidden Checking Account Fees","category":"Banking","status":"queued","priority":3},
+  {"topic":"Hidden ATM Fees","category":"Banking","status":"complete","priority":4},
+  {"topic":"Hidden Overdraft Fees","category":"Banking","status":"complete","priority":5}
+]

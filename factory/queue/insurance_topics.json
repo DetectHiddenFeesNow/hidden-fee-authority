@@ -1,0 +1,7 @@
+[
+  {"topic":"Hidden Car Insurance Fees","category":"Insurance","subcategory":"Auto","status":"queued","priority":1},
+  {"topic":"Hidden Home Insurance Fees","category":"Insurance","subcategory":"Home","status":"queued","priority":2},
+  {"topic":"Hidden Health Insurance Fees","category":"Insurance","subcategory":"Health","status":"queued","priority":3},
+  {"topic":"Hidden Life Insurance Fees","category":"Insurance","subcategory":"Life","status":"queued","priority":4},
+  {"topic":"Hidden Travel Insurance Fees","category":"Insurance","subcategory":"Travel","status":"queued","priority":5}
+]
