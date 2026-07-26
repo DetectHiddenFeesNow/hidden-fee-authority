@@ -113,3 +113,10 @@
 
 /* ── Divider ─────────────────────────────────── */
 .section-divider{width:60px;height:3px;border-radius:var(--r-full);background:var(--primary);margin-bottom:var(--s-6)}
+/* Breadcrumb */
+.breadcrumb{display:flex;align-items:center;gap:var(--s-2);font-size:var(--text-sm);color:var(--text-muted);padding:var(--s-4) 0 var(--s-2);max-width:var(--max-width);margin:0 auto;padding-left:var(--s-6);padding-right:var(--s-6)}
+.breadcrumb a{color:var(--text-muted);transition:color var(--t-fast)}
+.breadcrumb a:hover{color:var(--primary-light)}
+.breadcrumb span{color:var(--text-primary)}
+.breadcrumb svg{width:12px;height:12px;flex-shrink:0;color:var(--text-muted)}
+@media(max-width:768px){.breadcrumb{font-size:var(--text-xs)}}
