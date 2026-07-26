@@ -29,3 +29,5 @@ User-agent: Amazonbot
 Allow: /
 
 Sitemap: https://hidden-fee-authority.vercel.app/sitemap.xml
+
+Sitemap: https://hidden-fee-authority.vercel.app/feed.xml
